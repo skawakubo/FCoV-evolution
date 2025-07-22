@@ -8,3 +8,9 @@
 1. Download all the FCoV-like sequence (<em>Alphacoronavirus-1</em>) with annotated metadata from NCBI database, and make our own database.
 2. Find recombination pattern by running GARD
 3. Find SNPs sites from NGS data
+
+<em>Alphacoronavirus-1</em> includes:
+   * Feline coronavirus (FCoV) 
+   * Canine coronaviruses (CCoV)
+   * Transmissible gastroenteritis virus (TGEV) 
+Each has both serotype-1 and -2
