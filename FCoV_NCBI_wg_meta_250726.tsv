@@ -8,7 +8,7 @@ PP254210.1	ZD/22/561i	2022-07-22	India	Felis catus	feces	29199	NCBI
 PP254211.1	ZD/22/563i	2022-07-22	India	Felis catus	feces	29175	NCBI
 PP254212.1	ZD/22/639i	2022-07-23	India	Felis catus	feces	29265	NCBI
 PP254213.1	ZD/22/719i	2022-08-23	India	Felis catus	lung	29224	NCBI
-PP254214.1	ZD/23/756i	2023-02-14	India	Felis catus	feces, abdominal cavity	29203	NCBI
+PP254214.1	ZD/23/756i	2023-02-14	India	Felis catus	"feces, abdominal cavity"	29203	NCBI
 PP254215.1	Cat/MP/Or-Re/ZD/22-01/Di2	2022-01-31	India	Felis catus	feces	29219	NCBI
 PP908788.1	FCoV/Thailand/CU27528/2021	2021-07	Thailand	Felis catus	feces	28717	NCBI
 PP908789.1	FCoV/Thailand/CU27724/2021	2021-08	Thailand	Felis catus	feces	29055	NCBI
@@ -19,7 +19,7 @@ PP526171.1						28925	NCBI
 PP526173.1						29356	NCBI
 OR711916.1	DQ2023	2023	China	Felis catus		29032	NCBI
 OP542206.1	2020-FM3	2020-04-29	USA	Felis margarita		29243	NCBI
-OR295209.1		2021-01-12	China	Felis catus	liver, abdominal cavity	29022	NCBI
+OR295209.1		2021-01-12	China	Felis catus	"liver, abdominal cavity"	29022	NCBI
 OQ311323.1	79-1146					29388	NCBI
 LC742526.1	FCoV/I/JP15/Fe/35/2015	2015-08-15	Japan	Felis catus		28225	NCBI
 ON595853.1	FPV-1	2017	Australia	Felis catus	feces	29293	NCBI
@@ -129,3 +129,23 @@ DQ286389.1			USA			28632	NCBI
 DQ848678.1					abdominal cavity	29277	NCBI
 DQ010921.1	VR-2202 (P100)			Felis catus		29147	NCBI
 AY994055.1	79-1146		USA			29355	NCBI
+v11-1_S79	v11-1_S79						Izumi
+v8-1_S91	v8-1_S91						Izumi
+V7-11_S129	V7-11_S129						Izumi
+V6-11_S105	V6-11_S105						Izumi
+V5-S_S8	V5-S_S8						Izumi
+V004	V004						Izumi
+V3-S_S7	V3-S_S7						Izumi
+V2-10_S68	V2-10_S68						Izumi
+V1-10_S56	V1-10_S56						Izumi
+RGU3-1_S43	RGU3-1_S43						Izumi
+RGU2-1_S31	RGU2-1_S31						Izumi
+RGU1-1_S19	RGU1-1_S19						Izumi
+H8-10_S44	H8-10_S44						Izumi
+H7-10_S32	H7-10_S32						Izumi
+H6-10_S20	H6-10_S20						Izumi
+H2-10_S116	H2-10_S116						Izumi
+775024S_S3_L001	775024S_S3_L001						Izumi
+IZ_1_S7_L001	IZ_1_S7_L001						Izumi
+771819S_S4_L001	771819S_S4_L001						Izumi
+IZ_2_S8_L001	IZ_2_S8_L001						Izumi
