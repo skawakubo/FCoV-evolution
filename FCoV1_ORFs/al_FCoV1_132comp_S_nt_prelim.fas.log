@@ -1,0 +1,156 @@
+IQ-TREE version 3.0.1 for Linux x86 64-bit built Jul  9 2025
+Developed by Bui Quang Minh, Thomas Wong, Nhan Ly-Trong, Huaiyan Ren
+Contributed by Lam-Tung Nguyen, Dominik Schrempf, Chris Bielow,
+Olga Chernomor, Michael Woodhams, Diep Thi Hoang, Heiko Schmidt
+
+Host:    GPUserver2 (AVX512, FMA3, 251 GB RAM)
+Command: iqtree3 -s al_FCoV1_132comp_S_nt_prelim.fas -m GTR+F+R4 -B 1000 -T 5
+Seed:    325883 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Aug  1 15:25:26 2025
+Kernel:  AVX+FMA - 5 threads (40 CPU cores detected)
+
+Reading alignment file al_FCoV1_132comp_S_nt_prelim.fas ... Fasta format detected
+Reading fasta file: done in 0.00532615 secs using 99.98% CPU
+Alignment most likely contains DNA/RNA sequences
+Constructing alignment: done in 0.0066635 secs using 457.6% CPU
+WARNING: 11 sites contain only gaps or ambiguous characters.
+Alignment has 132 sequences with 4469 columns, 3068 distinct patterns
+2157 parsimony-informative, 465 singleton sites, 1847 constant sites
+                 Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000226633 secs using 716.1% CPU
+   1  KY566209.1         1.32%    passed     97.92%
+   2  PP254206.1         8.39%    passed     81.46%
+   3  PP254207.1         1.61%    passed     95.86%
+   4  PP254208.1        10.34%    passed     72.84%
+   5  PP254209.1         2.46%    passed     71.25%
+   6  PP254210.1         3.13%    passed     60.18%
+   7  PP254211.1        24.86%    passed     80.46%
+   8  PP254215.1        16.69%    passed     84.71%
+   9  PP908789.1         1.32%    passed     93.92%
+  10  PP908790.1        21.73%    passed     59.21%
+  11  MT239440.1         1.39%    passed     98.27%
+  12  MW030110.1         1.39%    passed     78.82%
+  13  KY292377.1         1.45%    passed     91.98%
+  14  KF530115.1       100.00%    passed      -nan%
+  15  EU186072.1         1.66%    passed     85.21%
+  16  KF530129.1        36.38%    passed     39.35%
+  17  KF530125.1        62.83%    passed     90.33%
+  18  HQ392469.1         1.48%    passed     97.73%
+  19  HQ392472.1         1.59%    passed     63.32%
+  20  HQ012371.1         1.57%    passed     91.01%
+  21  FJ938052.1         1.43%    passed     87.92%
+  22  FJ938059.1         1.45%    passed     93.90%
+  23  FJ938055.1         1.45%    passed     83.83%
+  24  FJ938062.1         1.50%    passed     95.48%
+  25  KF530116.1        96.89%    passed     63.02%
+  26  HQ012368.1         1.57%    passed     98.49%
+  27  FJ938057.1         1.81%    passed     94.18%
+  28  KF530134.1        64.94%    passed     53.91%
+  29  KF530136.1        64.94%    passed     62.83%
+  30  JN183883.1         1.68%    passed     85.53%
+  31  HQ012370.1         1.34%    passed     69.50%
+  32  KF530120.1        65.59%    passed     79.16%
+  33  KF530131.1        36.25%    passed     58.88%
+  34  KF530123.1         1.45%    passed     99.32%
+  35  KF530126.1        66.48%    passed     68.74%
+  36  KF530130.1         1.45%    passed     98.24%
+  37  KF530135.1        66.03%    passed     50.27%
+  38  JN183882.1         1.32%    passed     89.55%
+  39  KF530127.1        54.64%    passed     65.74%
+  40  KX722530.1        16.58%    passed     70.92%
+  41  KF530270.1        76.50%    passed     64.69%
+  42  KF530271.1        62.61%    passed     67.76%
+  43  FJ938058.1        17.25%    passed     54.11%
+  44  HQ392470.1         1.25%    passed     86.79%
+  45  HQ012367.1         1.28%    passed     83.44%
+  46  HQ012369.1        19.38%    passed     66.78%
+  47  HQ012372.1         1.45%    passed     97.89%
+  48  GU553361.1         1.52%    passed     98.85%
+  49  GU553362.1         1.52%    passed     98.47%
+  50  KX722529.1         1.45%    passed     98.71%
+  51  KF530118.1        49.32%    passed     61.07%
+  52  KY566210.1         1.32%    passed     98.59%
+  53  KY566211.1         1.32%    passed     98.93%
+  54  FJ938056.1         1.57%    passed     77.38%
+  55  MW030108.1         1.32%    passed     99.83%
+  56  MW308128.1         1.25%    passed     55.49%
+  57  V3-S_S7           49.30%    passed     98.13%
+  58  H8-10_S44         58.72%    passed     99.02%
+  59  H2-10_S116         1.52%    passed     94.71%
+  60  H7-10_S32         20.74%    passed     63.99%
+  61  HQ392471.1         1.57%    passed     87.12%
+  62  PP854701.1         1.45%    passed     95.69%
+  63  PP854702.1         1.50%    passed     99.09%
+  64  KF530119.1        47.86%    passed     17.11%
+  65  OP542206.1         1.45%    passed     78.71%
+  66  FJ938053.1         1.54%    passed     56.18%
+  67  FJ938054.1         1.59%    passed     73.52%
+  68  MG893511.1         1.59%    passed     96.87%
+  69  KU215419.1         1.54%    passed     63.95%
+  70  KU215420.1         1.45%    passed     63.19%
+  71  KU215425.1         1.48%    passed     62.40%
+  72  KU215422.1         1.45%    passed     66.56%
+  73  KU215423.1         1.57%    passed     67.58%
+  74  KU215424.1         1.68%    passed     64.10%
+  75  KU215428.1         1.66%    passed     70.51%
+  76  FJ938060.1         1.48%    passed     63.71%
+  77  KU215427.1         2.17%    passed     69.08%
+  78  KU215426.1         1.48%    passed     77.15%
+  79  KU215421.1         1.45%    passed     66.56%
+  80  FJ938061.1         4.41%    passed     82.07%
+  81  FJ938051.1         1.68%    passed     96.84%
+  82  V6-11_S105        25.33%    passed     86.76%
+  83  V004               1.52%    passed     95.91%
+  84  MN165107.1         1.59%    passed     61.21%
+  85  PP908788.1         1.39%    passed     94.86%
+  86  ON595853.1         1.45%    passed     95.34%
+  87  ON595867.1         1.45%    passed     96.37%
+  88  ON595863.1         1.45%    passed     97.05%
+  89  ON595868.1         1.45%    passed     97.14%
+  90  ON595866.1         1.45%    passed     97.13%
+  91  ON595854.1         1.25%    passed     92.26%
+  92  ON595869.1         1.52%    passed     70.73%
+  93  ON595871.1         1.52%    passed     74.00%
+  94  ON595856.1         1.39%    passed     84.43%
+  95  ON595857.1         1.25%    passed     73.57%
+  96  ON595862.1         1.25%    passed     93.97%
+  97  ON595870.1         1.32%    passed     84.66%
+  98  ON595858.1         1.52%    passed     99.11%
+  99  RGU3-1_S43        21.71%    passed     88.48%
+ 100  ON595855.1         1.99%    passed     99.61%
+ 101  V7-11_S129         1.99%    passed     51.31%
+ 102  LC742526.1         1.39%    passed     77.74%
+ 103  V2-10_S68         32.22%    passed     93.05%
+ 104  V1-10_S56          1.72%    passed     97.34%
+ 105  V5-S_S8           16.11%    passed     90.80%
+ 106  v8-1_S91          56.97%    passed     59.96%
+ 107  MT444152.1        15.89%    passed     88.47%
+ 108  KF530132.1        71.58%    passed     79.84%
+ 109  RGU2-1_S31        18.66%    passed     95.19%
+ 110  v11-1_S79          1.45%    passed     82.47%
+ 111  KF530117.1        38.51%    passed     76.64%
+ 112  KP143507.1         1.54%    passed     97.56%
+ 113  KP143512.1         1.54%    passed     97.96%
+ 114  KP143508.1         1.54%    passed     98.09%
+ 115  KP143509.1         1.54%    passed     96.62%
+ 116  KP143510.1         1.54%    passed     95.87%
+ 117  KP143511.1         1.54%    passed     95.25%
+ 118  RGU1-1_S19        11.61%    passed     99.95%
+ 119  DQ848678.1         1.48%    passed     96.52%
+ 120  IZ_1_S7_L001       1.59%    passed     86.22%
+ 121  H6-10_S20         17.68%    passed     65.99%
+ 122  IZ_2_S8_L001       1.45%    passed     98.55%
+ 123  PP254212.1         2.24%    passed     78.96%
+ 124  PP254213.1         5.15%    passed     76.25%
+ 125  PP254214.1         4.74%    passed     82.18%
+ 126  KF530122.1         4.50%    passed     96.68%
+ 127  KF530121.1        59.05%    passed     98.80%
+ 128  KF530133.1        78.47%    passed     91.30%
+ 129  KF530124.1        63.86%    passed     41.70%
+ 130  KX722531.1         1.86%    passed     88.09%
+ 131  775024S_S3_L001    1.59%    passed     88.39%
+ 132  771819S_S4_L001   18.28%    passed     89.25%
+WARNING: 17 sequences contain more than 50% gaps/ambiguity
+****  TOTAL             14.50%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+WARNING: Sequence KF530115.1 contains only gaps or missing data
+ERROR: Some sequences (see above) are problematic, please check your alignment again
