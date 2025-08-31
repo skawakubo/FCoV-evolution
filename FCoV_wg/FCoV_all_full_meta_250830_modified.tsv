@@ -94,41 +94,41 @@ KF530133.1		2007/6/26	Netherlands	Felis catus		29091	NCBI		unknown
 KF530134.1		2010/3/12	Netherlands	Felis catus		29079	NCBI		unknown	
 KF530135.1		2010/6/17	Netherlands	Felis catus		28338	NCBI		unknown	
 KF530136.1		2010/1/27	Netherlands	Felis catus		29076	NCBI		unknown	
-JN634064.1						28984	NCBI		unknown	
-JQ408980.1				Felis catus		29363	NCBI		unknown	
-JQ408981.1				Felis catus		29025	NCBI		unknown	
-JN183882.1		2010/7/14	Netherlands	Felis catus		29243	NCBI		unknown	
-JN183883.1		2010/3/12	Netherlands	Felis catus		29222	NCBI		unknown	
-HQ392469.1		2008/1/22	Netherlands	Felis catus		29233	NCBI		unknown	
-HQ392470.1		2007/8/23	Netherlands	Feliformia		29255	NCBI		unknown	
-HQ392471.1		2007/8/23	Netherlands	Feliformia		29252	NCBI		unknown	
-HQ392472.1		2008/1/22	Netherlands	Feliformia		29233	NCBI		unknown	
-HQ012367.1		2007/7/17	Netherlands	Feliformia		29202	NCBI		unknown	
-HQ012368.1		2007/7/24	Netherlands	Feliformia		29252	NCBI		unknown	
-HQ012369.1		2007/9/11	Netherlands	Feliformia		28429	NCBI		unknown	
-HQ012370.1		2008/1/3	Netherlands	Feliformia		29266	NCBI		unknown	
-HQ012371.1		2008/1/25	Netherlands	Feliformia		29274	NCBI		unknown	
-HQ012372.1		2007/9/11	Netherlands	Felis catus		29216	NCBI		unknown	
+JN634064.1	WSU 79-1683					28984	NCBI		FECV	
+JQ408980.1	DF-2 R3i			Felis catus		29363	NCBI		FIPV	
+JQ408981.1	DF-2			Felis catus		29025	NCBI		FIPV	
+JN183882.1	UU47	2010/7/14	Netherlands	Felis catus		29243	NCBI		unknown	
+JN183883.1	UU54	2010/3/12	Netherlands	Felis catus		29222	NCBI		unknown	
+HQ392469.1	UU40	2008/1/22	Netherlands	Felis catus		29233	NCBI		unknown	
+HQ392470.1	UU19	2007/8/23	Netherlands	Feliformia		29255	NCBI		unknown	
+HQ392471.1	UU20	2007/8/23	Netherlands	Feliformia		29252	NCBI		unknown	
+HQ392472.1	UU30	2008/1/22	Netherlands	Feliformia		29233	NCBI		unknown	
+HQ012367.1	UU17	2007/7/17	Netherlands	Feliformia		29202	NCBI		unknown	
+HQ012368.1	UU18	2007/7/24	Netherlands	Feliformia		29252	NCBI		unknown	
+HQ012369.1	UU21	2007/9/11	Netherlands	Feliformia		28429	NCBI		unknown	
+HQ012370.1	UU24	2008/1/3	Netherlands	Feliformia		29266	NCBI		unknown	
+HQ012371.1	UU31	2008/1/25	Netherlands	Feliformia		29274	NCBI		unknown	
+HQ012372.1	UU34	2007/9/11	Netherlands	Felis catus		29216	NCBI		unknown	
 GU553361.1	TCVSP-ROTTIER-00022	2007/9/13	Netherlands	Feliformia		29264	NCBI		unknown	
 GU553362.1	TCVSP-ROTTIER-00023	2007/9/13	Netherlands	Feliformia		29264	NCBI		unknown	
-FJ938051.1		2002/1/28	USA	Felis catus		29232	NCBI		unknown	
-FJ938052.1		2007/6/5	Netherlands	Felis catus		29306	NCBI		unknown	
-FJ938053.1		2007/4/25	Netherlands	Felis catus		29277	NCBI		unknown	
-FJ938054.1		2007/2/2	Netherlands	Felis catus		29269	NCBI		unknown	
-FJ938055.1		2007/5/24	Netherlands	Felis catus		29285	NCBI		unknown	
-FJ938056.1		2007/3/7	Netherlands	Felis catus		29253	NCBI		unknown	
-FJ938057.1		2007/7/13	Netherlands	Felis catus		29275	NCBI		unknown	
-FJ938058.1		2007/6/7	Netherlands	Felis catus		28479	NCBI		unknown	
-FJ938059.1		2007/6/5	Netherlands	Felis catus		29295	NCBI		unknown	
-FJ938060.1		1993/3/30	USA	Felis catus		29256	NCBI		unknown	
-FJ938061.1		1998/3/10	USA	Felis catus		29130	NCBI		unknown	
-FJ938062.1		2007/5/24	Netherlands	Felis catus		29266	NCBI		unknown	
-GQ152141.1		7-Sep	Taiwan	Felis catus	lung	28897	NCBI		FIPV	
-EU186072.1	Black		USA			29256	NCBI		unknown	
-DQ286389.1			USA			28632	NCBI		unknown	
-DQ848678.1					abdominal cavity	29277	NCBI		FIPV	
-DQ010921.1	VR-2202 (P100)			Felis catus		29147	NCBI		unknown	
-AY994055.1	79-1146		USA			29355	NCBI		unknown	
+FJ938051.1	RM	2002/1/28	USA	Felis catus		29232	NCBI		unknown	
+FJ938052.1	UU11	2007/6/5	Netherlands	Felis catus		29306	NCBI		unknown	
+FJ938053.1	UU7	2007/4/25	Netherlands	Felis catus		29277	NCBI		unknown	
+FJ938054.1	UU4	2007/2/2	Netherlands	Felis catus		29269	NCBI		unknown	
+FJ938055.1	UU8	2007/5/24	Netherlands	Felis catus		29285	NCBI		unknown	
+FJ938056.1	UU5	2007/3/7	Netherlands	Felis catus		29253	NCBI		unknown	
+FJ938057.1	UU15	2007/7/13	Netherlands	Felis catus		29275	NCBI		unknown	
+FJ938058.1	UU16	2007/6/7	Netherlands	Felis catus		28479	NCBI		unknown	
+FJ938059.1	UU10	2007/6/5	Netherlands	Felis catus		29295	NCBI		unknown	
+FJ938060.1	UU2	1993/3/30	USA	Felis catus		29256	NCBI		unknown	
+FJ938061.1	UU3	1998/3/10	USA	Felis catus		29130	NCBI		unknown	
+FJ938062.1	UU9	2007/5/24	Netherlands	Felis catus		29266	NCBI		unknown	
+GQ152141.1	FCoV/NTU156/P/2007	7-Sep	Taiwan	Felis catus	pleural effusion	28897	NCBI		FIPV	lung?
+EU186072.1	Black		USA			29256	NCBI		FIPV	
+DQ286389.1	DF-2		USA			28632	NCBI		FIPV	
+DQ848678.1	FCoV C1Je				jejunum	29277	NCBI		FIPV	
+DQ010921.1	VR-2202 (P100)			Felis catus		29147	NCBI		FIPV	79-1146
+AY994055.1	79-1146		USA			29355	NCBI		FIPV	
 v11-1_S79	v11-1_S79	2024/8/5	Japan	Felis catus	peritoneal effusion		Izumi		FIPV	
 v8-1_S91	v8-1_S91	2024/7/20	Japan	Felis catus	peritoneal effusion		Izumi		FIPV	
 V7-11_S129	V7-11_S129	2024/6/29	Japan	Felis catus	liver		Izumi		FIPV	
