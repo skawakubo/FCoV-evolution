@@ -13,4 +13,7 @@
    * Feline coronavirus (FCoV) 
    * Canine coronaviruses (CCoV)
    * Transmissible gastroenteritis virus (TGEV) 
+<br>
 Each has both serotype-1 and -2
+
+[Similarity plot of FCoV-1](https://skawakubo.github.io/FCoV-evolution/similarity_plot.html "Similarity plot of FCoV-1")
