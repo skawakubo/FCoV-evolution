@@ -3,3 +3,4 @@
 test_dir/*
 Alphacov1_ntblast_meta_raw.gb
 Alphacov1_ntblast_seq_raw.fasta
+FCoV_relatives/Alphacov1_ntblast_seq_cleaned_wg_mafftauto.fasta
