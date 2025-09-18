@@ -75,15 +75,13 @@ ${samtools_cmd} sort  -@ ${THREADS} -o "${OUT}.merged.sorted.bam" "${OUT}.merged
 ${samtools_cmd} index "${OUT}.merged.sorted.bam"
 rm -f "${OUT}.merged.bam"
 
-# ==== choose best reference by coverage ====
-# samtools coverage: column field 6  "coverage(%)" and 7 "mean coverage depth"
-${samtools_cmd} coverage "${OUT}.merged.sorted.bam" > "${OUT}.coverage.txt"
 
-best_ref=$(
-  awk 'NR>1 {print $1, $6, $7}' "${OUT}.coverage.txt" \
-  | sort -k2,2nr -k3,3nr \
-  | head -1 | cut -d" " -f1
-)
+# ==== choose best reference by coverage  ====
+${samtools_cmd} depth -aa "${OUT}.merged.sorted.bam" \
+| awk '{tot[$1]++; if($3>0) cov[$1]++} END{for(chr in tot){covrate=(cov[chr]+0.0)/tot[chr]; print chr, covrate}}' \
+| sort -k2,2nr > "${OUT}.coverage.txt"
+
+best_ref=$(head -n 1 "${OUT}.coverage.txt" | awk '{print $1}')
 echo "[INFO] Best reference by coverage: ${best_ref}"
 
 # extract best ref sequence from multi-FASTA
@@ -105,18 +103,13 @@ rm -f "${OUT}.bestref.bam"
 # rm -f "${OUT}.trimmed.bam"
 
 # ==== depth ====
-${samtools_cmd} depth -aa "${OUT}.trimmed.sorted.bam" > "${OUT}.depth.txt"
+${samtools_cmd} depth -aa "${OUT}.bestref.sorted.bam" > "${OUT}.depth.txt"
 
-# ${bcftools_cmd} mpileup -f "${REF}" -Ou -a AD,DP -d 500000 "${OUT}.trimmed.sorted.bam" \
-#   | ${bcftools_cmd} call -mv -Ob -o "bcf_tem"
-#   | ${bcftools_cmd} filter -e 'QUAL<20 || DP<5' -Oz -o "${OUT}.variants.vcf.gz"
-# ${bcftools_cmd} index "${OUT}.variants.vcf.gz"
-
-# ==== variant call ====
+# ==== variant call on bestref ====
 ${bcftools_cmd} mpileup -f "${REF}" -Ou \
   -a AD,DP,ADF,ADR \
   -d 500000 -q 20 -Q 20 \
-  "${OUT}.trimmed.sorted.bam" \
+  "${OUT}.bestref.sorted.bam" \
 | ${bcftools_cmd} call -mv --ploidy 1 -Ob -o "${OUT}.raw.bcf"
 
 ${bcftools_cmd} index "${OUT}.raw.bcf"
@@ -126,7 +119,7 @@ ${bcftools_cmd} view "${OUT}.raw.bcf" -Ou \
 
 ${bcftools_cmd} index "${OUT}.variants.vcf.gz"
 
-# mask low coverage region (<10x) as N in consensus
+# ==== mask low coverage region (<10x) as N in consensus ====
 awk '$3<10 {print $1"\t"$2-1"\t"$2}' "${OUT}.depth.txt" > "${OUT}.lowcov.bed"
 
 # ==== write out consensus ====
@@ -138,9 +131,8 @@ echo "[DONE]"
 echo "  BestRef:        ${best_ref}"
 echo "  BestRef FASTA:  ${REF}"
 echo "  Coverage table: ${OUT}.coverage.txt"
-echo "  Final BAM:      ${OUT}.trimmed.sorted.bam"
+echo "  Final BAM:      ${OUT}.bestref.sorted.bam"
 echo "  Depth:          ${OUT}.depth.txt"
 echo "  Variants:       ${OUT}.variants.vcf.gz"
 echo "  Lowcov BED:     ${OUT}.lowcov.bed"
 echo "  Consensus:      ${OUT}.consensus.fasta"
-
