@@ -26,4 +26,4 @@
    * Canine coronaviruses (CCoV)
    * Transmissible gastroenteritis virus (TGEV) 
 <br>
-Each has both serotype-1 and -2
+Each has both serotype-1 and -2. We focused on serotype-1 in this study
