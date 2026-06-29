@@ -1,0 +1,1 @@
+nohup mpirun -n 20 HYPHYMPI CPU=1 gard --type nucleotide --alignment FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_clu90_linsi.fasta --model GTR --rv GDD "ENV=TOLERATE_NUMERICAL_ERRORS=1;" &
