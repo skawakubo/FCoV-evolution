@@ -1,0 +1,312 @@
+IQ-TREE multicore version 2.4.0 for MacOS ARM 64-bit built Mar  8 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    ShusukenoMacBook-Pro.local (SSE4.2, 24 GB RAM)
+Command: iqtree2 -T AUTO -s FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_withSeCoV_reg1.fas -m GTR+F+R4 -B 1000
+Seed:    590487 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Aug 31 17:56:26 2026
+Kernel:  SSE2 - auto-detect threads (8 CPU cores detected)
+
+Reading alignment file FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_withSeCoV_reg1.fas ... Fasta format detected
+Reading fasta file: done in 0.00105691 secs using 82.88% CPU
+Alignment most likely contains DNA/RNA sequences
+Alignment has 121 sequences with 915 columns, 708 distinct patterns
+535 parsimony-informative, 150 singleton sites, 230 constant sites
+             Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 5.10216e-05 secs using 276.4% CPU
+   1  PQ416775.1     7.54%    passed     86.18%
+   2  PX315748.1    84.92%    passed     65.99%
+   3  PX315749.1    80.98%    passed     78.82%
+   4  PX315750.1     7.87%    passed     82.66%
+   5  PX315751.1     7.87%    passed     85.04%
+   6  PX315752.1     7.87%    passed     85.04%
+   7  PX315753.1     7.87%    passed     85.04%
+   8  PX315754.1     7.87%    passed     90.20%
+   9  PX315755.1     7.87%    passed     96.58%
+  10  PX315756.1     7.87%    passed     97.27%
+  11  PX315757.1     9.18%    passed     81.13%
+  12  PX315758.1     9.18%    passed     78.66%
+  13  PV797400.1     7.21%    passed     85.62%
+  14  PV797401.1     7.21%    passed     99.88%
+  15  PV797403.1     7.21%    passed     73.73%
+  16  LC880185.1     8.52%    passed     86.94%
+  17  LC852817.1    84.59%    passed     75.88%
+  18  PP908788.1     7.54%    passed     39.72%
+  19  PP908789.1     7.21%    passed     84.38%
+  20  PP854701.1     7.87%    passed     85.48%
+  21  PP854702.1     7.98%    passed     86.36%
+  22  OP542206.1     7.87%    passed     72.58%
+  23  ON595862.1     8.20%    passed     97.39%
+  24  ON595863.1     8.20%    passed     93.48%
+  25  ON595866.1     8.20%    passed     96.94%
+  26  ON595867.1     8.20%    passed     99.46%
+  27  ON595868.1     8.20%    passed     96.95%
+  28  ON595869.1     8.52%    passed     94.56%
+  29  ON595870.1     8.52%    passed     92.21%
+  30  ON595871.1     8.52%    passed     94.04%
+  31  MW308128.1     7.21%    passed     28.49%
+  32  MW030108.1     7.21%    passed     92.25%
+  33  MT444152.1    78.36%    passed     18.32%
+  34  KX722529.1     7.87%    passed     97.68%
+  35  KX722530.1    80.66%    passed     38.60%
+  36  KY566209.1     7.21%    passed     95.91%
+  37  KY566210.1     7.21%    passed     95.91%
+  38  KY566211.1     7.21%    passed     95.91%
+  39  KY292377.1     7.87%    passed     54.74%
+  40  KU215419.1     7.98%    passed     49.18%
+  41  KP143507.1     8.20%    passed     72.86%
+  42  KP143508.1     8.20%    passed     80.10%
+  43  KP143509.1     8.20%    passed     81.21%
+  44  KP143510.1     8.20%    passed     71.86%
+  45  KP143511.1     8.20%    passed     77.01%
+  46  KP143512.1     8.20%    passed     72.86%
+  47  HQ392470.1     7.87%    passed     95.00%
+  48  HQ392471.1     7.98%    passed     98.61%
+  49  HQ392472.1     7.54%    passed     91.22%
+  50  HQ012367.1     7.87%    passed     97.82%
+  51  HQ012368.1     7.87%    passed     89.83%
+  52  HQ012369.1    94.43%    passed     98.51%
+  53  HQ012370.1     8.20%    passed     55.03%
+  54  HQ012371.1     7.87%    passed     87.09%
+  55  GU553361.1     7.54%    passed     86.67%
+  56  GU553362.1     7.54%    passed     85.42%
+  57  FJ938051.1     8.74%    passed     98.94%
+  58  FJ938052.1     7.76%    passed     81.16%
+  59  FJ938053.1     8.31%    passed     84.98%
+  60  FJ938054.1     7.87%    passed     83.17%
+  61  FJ938055.1     7.65%    passed     93.19%
+  62  FJ938056.1     8.20%    passed     70.56%
+  63  FJ938058.1    84.92%    passed     80.28%
+  64  FJ938059.1     7.76%    passed     84.00%
+  65  FJ938060.1     7.87%    passed     48.22%
+  66  FJ938061.1     8.09%    passed     52.83%
+  67  FJ938062.1     7.54%    passed     94.69%
+  68  EU186072.1     8.52%    passed     86.70%
+  69  fecv14         7.87%    passed     81.13%
+  70  fecv22         7.87%    passed     81.13%
+  71  fecv23         7.54%    passed     96.11%
+  72  fecv28         8.20%    passed     98.24%
+  73  fecv40         7.87%    passed     88.02%
+  74  fecv50         7.87%    passed     99.39%
+  75  fecv60         7.87%    passed     98.85%
+  76  fecv_NARC3     7.54%    passed     94.24%
+  77  fecv_NARC4     7.54%    passed     77.84%
+  78  fecv5          7.87%    passed     81.13%
+  79  fecv15         7.87%    passed     92.71%
+  80  fecv16         7.54%    passed     85.18%
+  81  fecv30         7.87%    passed     90.42%
+  82  fecv37         8.20%    passed     98.24%
+  83  fecv43         7.54%    passed     89.43%
+  84  fecv46         7.54%    passed     86.33%
+  85  fecv47         7.87%    passed     99.96%
+  86  fecv51         8.20%    passed     94.95%
+  87  fecv66         8.20%    passed     92.45%
+  88  c34            7.87%    passed     99.32%
+  89  c66            7.54%    passed     91.96%
+  90  c77            7.87%    passed     96.34%
+  91  c33           76.07%    passed     54.22%
+  92  c46           85.25%    passed     44.98%
+  93  c112           8.20%    passed     47.89%
+  94  c63            7.87%    passed     98.16%
+  95  772363         7.87%    passed     89.24%
+  96  775024         8.20%    passed     88.71%
+  97  22N2321        7.87%    passed     94.87%
+  98  v5             7.87%    passed     71.00%
+  99  v4             8.20%    passed     96.52%
+ 100  r1             7.54%    passed     72.25%
+ 101  v7             9.84%    passed     84.13%
+ 102  h6             7.87%    passed     89.50%
+ 103  v11            7.87%    passed     88.65%
+ 104  r2             7.87%    passed     95.54%
+ 105  v2             7.54%    passed     91.05%
+ 106  h7             8.52%    passed     51.03%
+ 107  h2             7.87%    passed     93.58%
+ 108  r3            71.48%    passed     66.71%
+ 109  v1             7.54%    passed     86.63%
+ 110  MH817484.1     7.87%    passed     85.66%
+ 111  FJ917524.1     6.89%    passed     83.01%
+ 112  FJ917520.1     6.89%    passed     81.20%
+ 113  AB088223.1     7.87%    passed     86.68%
+ 114  PP901878.1     7.54%    passed     78.25%
+ 115  FJ917519.1     6.89%    passed     83.01%
+ 116  FJ917521.1     6.89%    passed     91.87%
+ 117  FJ917522.1     6.89%    passed     91.87%
+ 118  FJ917535.1     6.89%    passed     81.20%
+ 119  FJ917523.1     6.89%    passed     88.34%
+ 120  FJ917534.1     6.89%    passed     81.20%
+ 121  NC_028806.1   22.30%    passed      9.45%
+WARNING: 10 sequences contain more than 50% gaps/ambiguity
+****  TOTAL         14.10%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: PX315752.1 is identical to PX315751.1 but kept for subsequent analysis
+NOTE: KY566210.1 is identical to KY566209.1 but kept for subsequent analysis
+NOTE: KP143512.1 is identical to KP143507.1 but kept for subsequent analysis
+NOTE: fecv22 is identical to fecv14 but kept for subsequent analysis
+NOTE: fecv37 is identical to fecv28 but kept for subsequent analysis
+NOTE: FJ917535.1 is identical to FJ917520.1 but kept for subsequent analysis
+NOTE: FJ917522.1 is identical to FJ917521.1 but kept for subsequent analysis
+NOTE: 4 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: PX315753.1 (identical to PX315751.1) is ignored but added at the end
+NOTE: KY566211.1 (identical to KY566209.1) is ignored but added at the end
+NOTE: fecv5 (identical to fecv14) is ignored but added at the end
+NOTE: FJ917534.1 (identical to FJ917520.1) is ignored but added at the end
+Alignment was printed to FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_withSeCoV_reg1.fas.uniqueseq.phy
+
+For your convenience alignment with unique sequences printed to FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_withSeCoV_reg1.fas.uniqueseq.phy
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.008 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 590487)...
+
+NOTE: 13 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 8 CPU cores
+Increase to 10 rounds for branch lengths
+88 trees examined
+Threads: 1 / Time: 8.059 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -44135
+Threads: 2 / Time: 8.594 sec / Speedup: 0.938 / Efficiency: 47% / LogL: -44135
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -29739.241
+2. Current log-likelihood: -27330.854
+3. Current log-likelihood: -27255.873
+4. Current log-likelihood: -27234.854
+5. Current log-likelihood: -27229.843
+6. Current log-likelihood: -27228.335
+7. Current log-likelihood: -27227.828
+8. Current log-likelihood: -27227.626
+Optimal log-likelihood: -27227.506
+Rate parameters:  A-C: 2.83783  A-G: 4.49664  A-T: 0.83005  C-G: 1.41360  C-T: 9.22283  G-T: 1.00000
+Base frequencies:  A: 0.292  C: 0.184  G: 0.205  T: 0.319
+Site proportion and rates:  (0.498,0.126) (0.163,0.767) (0.222,1.706) (0.117,3.702)
+Parameters optimization took 8 rounds (1.204 sec)
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.021234 secs using 99.18% CPU
+Computing ML distances took 0.021435 sec (of wall-clock time) 0.021225 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000176907 secs using 90.44% CPU
+Computing RapidNJ tree took 0.000638 sec (of wall-clock time) 0.000908 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -27281.734
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.888 second
+Computing log-likelihood of 98 initial trees ... 1.122 seconds
+Current best score: -27189.626
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -27101.470
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -27093.566
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -27074.015
+Iteration 10 / LogL: -27132.095 / Time: 0h:0m:25s
+Iteration 20 / LogL: -27138.173 / Time: 0h:0m:29s
+Finish initializing candidate tree set (20)
+Current best tree score: -27074.015 / CPU time: 11.481
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 21: -27070.146
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 27: -27065.489
+Iteration 30 / LogL: -27066.064 / Time: 0h:0m:33s (0h:1m:52s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 38: -27053.989
+Iteration 40 / LogL: -27119.230 / Time: 0h:0m:37s (0h:1m:34s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 47: -27045.426
+Iteration 50 / LogL: -27053.461 / Time: 0h:0m:40s (0h:1m:21s left)
+Log-likelihood cutoff on original alignment: -27152.148
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 51: -27042.987
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 54: -27040.134
+Iteration 60 / LogL: -27059.286 / Time: 0h:0m:44s (0h:1m:11s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 65: -27038.506
+Iteration 70 / LogL: -27041.499 / Time: 0h:0m:48s (0h:1m:6s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 74: -27038.333
+Iteration 80 / LogL: -27039.578 / Time: 0h:0m:52s (0h:1m:1s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 83: -27035.049
+Iteration 90 / LogL: -27039.225 / Time: 0h:0m:55s (0h:0m:58s left)
+Iteration 100 / LogL: -27036.840 / Time: 0h:0m:59s (0h:0m:50s left)
+Log-likelihood cutoff on original alignment: -27152.148
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.951
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 110 / LogL: -27049.420 / Time: 0h:1m:4s (0h:0m:53s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 117: -27034.696
+Iteration 120 / LogL: -27045.415 / Time: 0h:1m:7s (0h:0m:55s left)
+Iteration 130 / LogL: -27049.121 / Time: 0h:1m:11s (0h:0m:48s left)
+Iteration 140 / LogL: -27042.613 / Time: 0h:1m:14s (0h:0m:41s left)
+Iteration 150 / LogL: -27035.355 / Time: 0h:1m:17s (0h:0m:35s left)
+Log-likelihood cutoff on original alignment: -27152.148
+Iteration 160 / LogL: -27047.893 / Time: 0h:1m:22s (0h:0m:29s left)
+Iteration 170 / LogL: -27035.608 / Time: 0h:1m:25s (0h:0m:23s left)
+Iteration 180 / LogL: -27037.822 / Time: 0h:1m:28s (0h:0m:18s left)
+Iteration 190 / LogL: -27034.725 / Time: 0h:1m:33s (0h:0m:13s left)
+Iteration 200 / LogL: -27040.864 / Time: 0h:1m:36s (0h:0m:8s left)
+Log-likelihood cutoff on original alignment: -27152.148
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.992
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 201: -27034.373
+Iteration 210 / LogL: -27035.755 / Time: 0h:1m:40s (0h:0m:43s left)
+Iteration 220 / LogL: -27135.704 / Time: 0h:1m:44s (0h:0m:38s left)
+Iteration 230 / LogL: -27049.982 / Time: 0h:1m:48s (0h:0m:33s left)
+Iteration 240 / LogL: -27043.713 / Time: 0h:1m:52s (0h:0m:28s left)
+Iteration 250 / LogL: -27058.240 / Time: 0h:1m:56s (0h:0m:23s left)
+Log-likelihood cutoff on original alignment: -27152.148
+Iteration 260 / LogL: -27041.966 / Time: 0h:1m:59s (0h:0m:18s left)
+Iteration 270 / LogL: -27035.394 / Time: 0h:2m:3s (0h:0m:14s left)
+Iteration 280 / LogL: -27044.021 / Time: 0h:2m:7s (0h:0m:9s left)
+Iteration 290 / LogL: -27035.135 / Time: 0h:2m:10s (0h:0m:4s left)
+Iteration 300 / LogL: -27038.960 / Time: 0h:2m:14s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -27152.148
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.997
+TREE SEARCH COMPLETED AFTER 302 ITERATIONS / Time: 0h:2m:15s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -27034.373
+Optimal log-likelihood: -27034.371
+Rate parameters:  A-C: 2.81275  A-G: 4.56968  A-T: 0.78797  C-G: 1.33446  C-T: 9.35140  G-T: 1.00000
+Base frequencies:  A: 0.292  C: 0.184  G: 0.205  T: 0.319
+Site proportion and rates:  (0.495,0.115) (0.151,0.733) (0.225,1.640) (0.129,3.590)
+Parameters optimization took 1 rounds (0.099 sec)
+BEST SCORE FOUND : -27034.371
+Creating bootstrap support values...
+Split supports printed to NEXUS file FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_withSeCoV_reg1.fas.splits.nex
+Total tree length: 18.961
+
+Total number of iterations: 302
+CPU time used for tree search: 107.782 sec (0h:1m:47s)
+Wall-clock time used for tree search: 117.196 sec (0h:1m:57s)
+Total CPU time used: 126.511 sec (0h:2m:6s)
+Total wall-clock time used: 135.437 sec (0h:2m:15s)
+
+Computing bootstrap consensus tree...
+Reading input file FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_withSeCoV_reg1.fas.splits.nex...
+117 taxa and 1621 splits.
+Consensus tree written to FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_withSeCoV_reg1.fas.contree
+Reading input trees file FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_withSeCoV_reg1.fas.contree
+Log-likelihood of consensus tree: -27035.109
+
+Analysis results written to: 
+  IQ-TREE report:                FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_withSeCoV_reg1.fas.iqtree
+  Maximum-likelihood tree:       FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_withSeCoV_reg1.fas.treefile
+  Likelihood distances:          FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_withSeCoV_reg1.fas.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_withSeCoV_reg1.fas.splits.nex
+  Consensus tree:                FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_withSeCoV_reg1.fas.contree
+  Screen log file:               FCoV1_S_all_seq_cleaned_cds_linsi_curated_fullllength_fix_dates_withSeCoV_reg1.fas.log
+
+Date and Time: Mon Aug 31 17:58:42 2026
