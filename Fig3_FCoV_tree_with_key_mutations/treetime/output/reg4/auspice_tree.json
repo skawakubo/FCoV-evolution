@@ -1,0 +1,4641 @@
+{
+"meta": {
+"title": "Auspice visualization of TreeTime (v0.11.4) analysis",
+"build_url": "https://github.com/neherlab/treetime",
+"last_updated": "2026-09-02",
+"treetime_version": "0.11.4",
+"genome_annotations": {
+"nuc": {
+"start": 1,
+"end": 235,
+"type": "source",
+"strand": "+:"
+}
+},
+"panels": [
+"tree",
+"entropy"
+],
+"colorings": [
+{
+"title": "Date",
+"type": "continuous",
+"key": "num_date"
+},
+{
+"title": "Genotype",
+"type": "categorical",
+"key": "gt"
+},
+{
+"title": "Excluded",
+"type": "categorical",
+"key": "bad_branch"
+},
+{
+"title": "Branch Support",
+"type": "continuous",
+"key": "confidence"
+}
+],
+"display_defaults": {
+"color_by": "bad_branch"
+},
+"filters": [
+"bad_branch"
+]
+},
+"tree": {
+"name": "NODE_0000000",
+"node_attrs": {
+"div": 0.001,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "fecv_NARC3",
+"node_attrs": {
+"div": 0.0046110932,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000001",
+"node_attrs": {
+"div": 0.010001386800000001,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.865
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S51A",
+"M110T"
+]
+}
+},
+"children": [
+{
+"name": "fecv_NARC4",
+"node_attrs": {
+"div": 0.0165246519,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S69A"
+]
+}
+}
+},
+{
+"name": "NODE_0000002",
+"node_attrs": {
+"div": 0.0732012911,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S81T"
+]
+}
+},
+"children": [
+{
+"name": "NODE_0000003",
+"node_attrs": {
+"div": 0.08083300789999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "c34",
+"node_attrs": {
+"div": 0.15995541729999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"E25A",
+"S101T"
+]
+}
+}
+},
+{
+"name": "NODE_0000004",
+"node_attrs": {
+"div": 0.08083503479999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000005",
+"node_attrs": {
+"div": 0.09310018179999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"K83T"
+]
+}
+},
+"children": [
+{
+"name": "PP908788.1",
+"node_attrs": {
+"div": 0.12487000059999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "775024",
+"node_attrs": {
+"div": 0.1301771896,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S69A",
+"E80-",
+"T81A",
+"V108A"
+]
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000006",
+"node_attrs": {
+"div": 0.08649356909999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "KX722529.1",
+"node_attrs": {
+"div": 0.12923011269999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000007",
+"node_attrs": {
+"div": 0.08967302729999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "PQ416775.1",
+"node_attrs": {
+"div": 0.14298278609999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "22N2321",
+"node_attrs": {
+"div": 0.15014327509999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S106T"
+]
+}
+}
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000008",
+"node_attrs": {
+"div": 0.07597163039999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000009",
+"node_attrs": {
+"div": 0.09775858289999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000010",
+"node_attrs": {
+"div": 0.10213254899999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "LC852817.1",
+"node_attrs": {
+"div": 0.16725015589999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S66T",
+"R68G",
+"S69A"
+]
+}
+}
+},
+{
+"name": "r2",
+"node_attrs": {
+"div": 0.168243029,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"R71G",
+"V82T",
+"S149T",
+"E226G"
+]
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000011",
+"node_attrs": {
+"div": 0.11261932779999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "h2",
+"node_attrs": {
+"div": 0.1648861801,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"T74A"
+]
+}
+}
+},
+{
+"name": "fecv60",
+"node_attrs": {
+"div": 0.21026970039999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S69A",
+"S136G",
+"E226A"
+]
+}
+}
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000012",
+"node_attrs": {
+"div": 0.081417201,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "KX722530.1",
+"node_attrs": {
+"div": 0.1693899897,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"R71G",
+"S73-"
+]
+}
+}
+},
+{
+"name": "NODE_0000013",
+"node_attrs": {
+"div": 0.08425860099999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "OP542206.1",
+"node_attrs": {
+"div": 0.15056397039999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"Y7C"
+]
+}
+}
+},
+{
+"name": "NODE_0000014",
+"node_attrs": {
+"div": 0.08426090709999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000015",
+"node_attrs": {
+"div": 0.09147786859999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000016",
+"node_attrs": {
+"div": 0.09790942649999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "c77",
+"node_attrs": {
+"div": 0.21024140819999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S69A",
+"D99G",
+"I132T",
+"T190A"
+]
+}
+}
+},
+{
+"name": "NODE_0000017",
+"node_attrs": {
+"div": 0.10424308179999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "c63",
+"node_attrs": {
+"div": 0.1680964593,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"Q65T",
+"R71T",
+"R183T"
+]
+}
+}
+},
+{
+"name": "NODE_0000018",
+"node_attrs": {
+"div": 0.13824692309999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "FJ938058.1",
+"node_attrs": {
+"div": 0.19262629419999996,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"R68G",
+"S224G"
+]
+}
+}
+},
+{
+"name": "NODE_0000019",
+"node_attrs": {
+"div": 0.15317487309999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S69A"
+]
+}
+},
+"children": [
+{
+"name": "PP854701.1",
+"node_attrs": {
+"div": 0.16661574159999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S194T"
+]
+}
+}
+},
+{
+"name": "PP854702.1",
+"node_attrs": {
+"div": 0.17631713109999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000020",
+"node_attrs": {
+"div": 0.09841061149999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "fecv43",
+"node_attrs": {
+"div": 0.18857253219999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"-78T",
+"S136T"
+]
+}
+}
+},
+{
+"name": "NODE_0000021",
+"node_attrs": {
+"div": 0.09843555049999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000022",
+"node_attrs": {
+"div": 0.10741160639999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "MW030108.1",
+"node_attrs": {
+"div": 0.16416917009999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"I11T",
+"R71T",
+"K83T"
+]
+}
+}
+},
+{
+"name": "r1",
+"node_attrs": {
+"div": 0.19264287919999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"T64A",
+"S69A",
+"E80-",
+"E226A"
+]
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000023",
+"node_attrs": {
+"div": 0.10934566519999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "PP908789.1",
+"node_attrs": {
+"div": 0.17261303919999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"K83T"
+]
+}
+}
+},
+{
+"name": "NODE_0000024",
+"node_attrs": {
+"div": 0.15292059609999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S187T"
+]
+}
+},
+"children": [
+{
+"name": "FJ938055.1",
+"node_attrs": {
+"div": 0.16043432999999996,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "FJ938062.1",
+"node_attrs": {
+"div": 0.16614046219999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000025",
+"node_attrs": {
+"div": 0.0918666064,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000026",
+"node_attrs": {
+"div": 0.11281031359999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "MH817484.1",
+"node_attrs": {
+"div": 0.2170014672,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"T102A",
+"S187T"
+]
+}
+}
+},
+{
+"name": "NODE_0000027",
+"node_attrs": {
+"div": 0.13107275329999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "MW308128.1",
+"node_attrs": {
+"div": 0.2078283493,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S69A",
+"E80T",
+"I132T"
+]
+}
+}
+},
+{
+"name": "NODE_0000028",
+"node_attrs": {
+"div": 0.16971584839999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"V133T"
+]
+}
+},
+"children": [
+{
+"name": "NODE_0000029",
+"node_attrs": {
+"div": 0.2057358828,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.95
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S66T",
+"-72A",
+"S73A"
+]
+}
+},
+"children": [
+{
+"name": "ON595871.1",
+"node_attrs": {
+"div": 0.20573821139999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "ON595869.1",
+"node_attrs": {
+"div": 0.2057384143,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000030",
+"node_attrs": {
+"div": 0.21900355479999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "ON595862.1",
+"node_attrs": {
+"div": 0.24273212679999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000031",
+"node_attrs": {
+"div": 0.2582588574,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.865
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S187T",
+"T190A"
+]
+}
+},
+"children": [
+{
+"name": "NODE_0000032",
+"node_attrs": {
+"div": 0.3462942234,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.865
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S79T",
+"T86A"
+]
+}
+},
+"children": [
+{
+"name": "ON595867.1",
+"node_attrs": {
+"div": 0.35200380319999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"D99G"
+]
+}
+}
+},
+{
+"name": "NODE_0000033",
+"node_attrs": {
+"div": 0.3495532852,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "ON595863.1",
+"node_attrs": {
+"div": 0.35102450420000003,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000034",
+"node_attrs": {
+"div": 0.349555828,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "ON595866.1",
+"node_attrs": {
+"div": 0.34955690030000003,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "ON595868.1",
+"node_attrs": {
+"div": 0.34955690030000003,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000035",
+"node_attrs": {
+"div": 0.2873646289,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000036",
+"node_attrs": {
+"div": 0.3020116784,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S149T"
+]
+}
+},
+"children": [
+{
+"name": "ON595870.1",
+"node_attrs": {
+"div": 0.3451442326,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S69A",
+"S75A",
+"-76A",
+"S101T"
+]
+}
+}
+},
+{
+"name": "NODE_0000037",
+"node_attrs": {
+"div": 0.316842297,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "HQ392470.1",
+"node_attrs": {
+"div": 0.3214077543,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"T81A",
+"R183G"
+]
+}
+}
+},
+{
+"name": "HQ012367.1",
+"node_attrs": {
+"div": 0.334144186,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000038",
+"node_attrs": {
+"div": 0.3506631025,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.982
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"D33G",
+"S66A",
+"S69A",
+"S75G"
+]
+}
+},
+"children": [
+{
+"name": "KP143511.1",
+"node_attrs": {
+"div": 0.3521393834,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000039",
+"node_attrs": {
+"div": 0.3506651175,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000040",
+"node_attrs": {
+"div": 0.3506670657,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "KP143509.1",
+"node_attrs": {
+"div": 0.350668138,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "KP143510.1",
+"node_attrs": {
+"div": 0.350668138,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000041",
+"node_attrs": {
+"div": 0.3506676567,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "KP143508.1",
+"node_attrs": {
+"div": 0.3521468984,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000042",
+"node_attrs": {
+"div": 0.3551258206,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"R68G"
+]
+}
+},
+"children": [
+{
+"name": "KP143512.1",
+"node_attrs": {
+"div": 0.35512822149999995,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "KP143507.1",
+"node_attrs": {
+"div": 0.35660486919999995,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000043",
+"node_attrs": {
+"div": 0.09768004279999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"I132T"
+]
+}
+},
+"children": [
+{
+"name": "NODE_0000044",
+"node_attrs": {
+"div": 0.09942807949999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000045",
+"node_attrs": {
+"div": 0.1135825462,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000046",
+"node_attrs": {
+"div": 0.1277379742,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.865
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S69A",
+"T74A"
+]
+}
+},
+"children": [
+{
+"name": "PP901878.1",
+"node_attrs": {
+"div": 0.2031694632,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S66T",
+"R68G",
+"R183T",
+"S187G",
+"N234T"
+]
+}
+}
+},
+{
+"name": "MT444152.1",
+"node_attrs": {
+"div": 0.2517861876,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S149T",
+"R183G"
+]
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000047",
+"node_attrs": {
+"div": 0.1826529269,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.982
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S66T",
+"P75T",
+"T81A",
+"T190A"
+]
+}
+},
+"children": [
+{
+"name": "KY566210.1",
+"node_attrs": {
+"div": 0.1826549527,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000048",
+"node_attrs": {
+"div": 0.18265497660000002,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "KY566209.1",
+"node_attrs": {
+"div": 0.18265497660000002,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "KY566211.1",
+"node_attrs": {
+"div": 0.18265497660000002,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000049",
+"node_attrs": {
+"div": 0.11196077599999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "KY292377.1",
+"node_attrs": {
+"div": 0.167097432,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000050",
+"node_attrs": {
+"div": 0.12959788909999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S187A"
+]
+}
+},
+"children": [
+{
+"name": "NODE_0000051",
+"node_attrs": {
+"div": 0.13437483579999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "PX315748.1",
+"node_attrs": {
+"div": 0.21600595569999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"T190A",
+"E226A",
+"K232T"
+]
+}
+}
+},
+{
+"name": "NODE_0000052",
+"node_attrs": {
+"div": 0.2219077215,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"N136T"
+]
+}
+},
+"children": [
+{
+"name": "PX315756.1",
+"node_attrs": {
+"div": 0.22190879379999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "PX315755.1",
+"node_attrs": {
+"div": 0.2219100234,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000053",
+"node_attrs": {
+"div": 0.2608867385,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.998
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"A36T",
+"T74A",
+"K83T",
+"T86A",
+"A187T",
+"T190A"
+]
+}
+},
+"children": [
+{
+"name": "PX315754.1",
+"node_attrs": {
+"div": 0.2676906698,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S149T"
+]
+}
+}
+},
+{
+"name": "NODE_0000054",
+"node_attrs": {
+"div": 0.270731746,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "PX315752.1",
+"node_attrs": {
+"div": 0.2707343596,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000055",
+"node_attrs": {
+"div": 0.2707340441,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "PX315751.1",
+"node_attrs": {
+"div": 0.2707340441,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "PX315753.1",
+"node_attrs": {
+"div": 0.2707340441,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000056",
+"node_attrs": {
+"div": 0.10286959139999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000057",
+"node_attrs": {
+"div": 0.11267009029999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "PV797401.1",
+"node_attrs": {
+"div": 0.18247990139999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"T74A"
+]
+}
+}
+},
+{
+"name": "NODE_0000058",
+"node_attrs": {
+"div": 0.2153761669,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.865
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"I11T",
+"S69A"
+]
+}
+},
+"children": [
+{
+"name": "PX315750.1",
+"node_attrs": {
+"div": 0.2153785039,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "PX315749.1",
+"node_attrs": {
+"div": 0.2153785103,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000059",
+"node_attrs": {
+"div": 0.10484754749999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "c33",
+"node_attrs": {
+"div": 0.1925703836,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"E59G",
+"S66A",
+"R71G",
+"S73A",
+"S149T"
+]
+}
+}
+},
+{
+"name": "NODE_0000060",
+"node_attrs": {
+"div": 0.11197932629999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000061",
+"node_attrs": {
+"div": 0.12013381559999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000062",
+"node_attrs": {
+"div": 0.1331883716,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "h7",
+"node_attrs": {
+"div": 0.19413574579999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"N136T"
+]
+}
+}
+},
+{
+"name": "NODE_0000063",
+"node_attrs": {
+"div": 0.1384004333,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "v4",
+"node_attrs": {
+"div": 0.24704131419999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S66T",
+"R71T",
+"S80A",
+"R183T"
+]
+}
+}
+},
+{
+"name": "NODE_0000064",
+"node_attrs": {
+"div": 0.15364239149999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "fecv23",
+"node_attrs": {
+"div": 0.20154229699999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S149T"
+]
+}
+}
+},
+{
+"name": "NODE_0000065",
+"node_attrs": {
+"div": 0.2797398926,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.865
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"E59G",
+"S80-",
+"R183T"
+]
+}
+},
+"children": [
+{
+"name": "fecv22",
+"node_attrs": {
+"div": 0.27974227009999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000066",
+"node_attrs": {
+"div": 0.2797409649,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "fecv30",
+"node_attrs": {
+"div": 0.2797409649,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000067",
+"node_attrs": {
+"div": 0.2797409649,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "fecv15",
+"node_attrs": {
+"div": 0.2797409649,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000068",
+"node_attrs": {
+"div": 0.2797409649,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "fecv14",
+"node_attrs": {
+"div": 0.2797409649,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "fecv5",
+"node_attrs": {
+"div": 0.2797409649,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000069",
+"node_attrs": {
+"div": 0.1707336041,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S81T"
+]
+}
+},
+"children": [
+{
+"name": "r3",
+"node_attrs": {
+"div": 0.17865656359999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000070",
+"node_attrs": {
+"div": 0.17960402539999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"E226A"
+]
+}
+},
+"children": [
+{
+"name": "NODE_0000071",
+"node_attrs": {
+"div": 0.18259264099999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000072",
+"node_attrs": {
+"div": 0.18556499889999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "fecv51",
+"node_attrs": {
+"div": 0.18556607119999996,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "fecv66",
+"node_attrs": {
+"div": 0.18556752309999996,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000073",
+"node_attrs": {
+"div": 0.18709929239999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "fecv28",
+"node_attrs": {
+"div": 0.18710177679999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "fecv37",
+"node_attrs": {
+"div": 0.18710181969999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000074",
+"node_attrs": {
+"div": 0.17960607269999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "fecv50",
+"node_attrs": {
+"div": 0.18257599579999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"D99A"
+]
+}
+}
+},
+{
+"name": "NODE_0000075",
+"node_attrs": {
+"div": 0.1825800815,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "fecv47",
+"node_attrs": {
+"div": 0.1932007328,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"D99A"
+]
+}
+}
+},
+{
+"name": "NODE_0000076",
+"node_attrs": {
+"div": 0.18406002,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"N83T"
+]
+}
+},
+"children": [
+{
+"name": "fecv16",
+"node_attrs": {
+"div": 0.18406109229999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "fecv46",
+"node_attrs": {
+"div": 0.18406263879999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000077",
+"node_attrs": {
+"div": 0.12595190009999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"N83T"
+]
+}
+},
+"children": [
+{
+"name": "NODE_0000078",
+"node_attrs": {
+"div": 0.13249075379999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000079",
+"node_attrs": {
+"div": 0.13249339539999996,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "LC880185.1",
+"node_attrs": {
+"div": 0.20311973699999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S66A",
+"V108A",
+"K176T",
+"R183T",
+"S224G"
+]
+}
+}
+},
+{
+"name": "NODE_0000080",
+"node_attrs": {
+"div": 0.13658992269999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S149T"
+]
+}
+},
+"children": [
+{
+"name": "c112",
+"node_attrs": {
+"div": 0.2271335021,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"T190A"
+]
+}
+}
+},
+{
+"name": "NODE_0000081",
+"node_attrs": {
+"div": 0.15371973419999999,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "FJ938051.1",
+"node_attrs": {
+"div": 0.20174190509999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S102A"
+]
+}
+}
+},
+{
+"name": "NODE_0000082",
+"node_attrs": {
+"div": 0.22214121329999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.95
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S69A",
+"I132T",
+"S136T"
+]
+}
+},
+"children": [
+{
+"name": "h6",
+"node_attrs": {
+"div": 0.24250831479999996,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "fecv40",
+"node_attrs": {
+"div": 0.2503974844,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000083",
+"node_attrs": {
+"div": 0.17395300709999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000084",
+"node_attrs": {
+"div": 0.25797926369999996,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.95
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"T74A",
+"S81T",
+"V108T"
+]
+}
+},
+"children": [
+{
+"name": "FJ938059.1",
+"node_attrs": {
+"div": 0.25798179889999995,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "FJ938052.1",
+"node_attrs": {
+"div": 0.257982112,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000085",
+"node_attrs": {
+"div": 0.18307371699999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "FJ938056.1",
+"node_attrs": {
+"div": 0.2539124778,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"I11T",
+"T50A",
+"R71G",
+"I132T"
+]
+}
+}
+},
+{
+"name": "NODE_0000086",
+"node_attrs": {
+"div": 0.2663566723,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.999
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"I11A",
+"A17G",
+"I52T",
+"S69A",
+"S81T",
+"D99G",
+"S149T"
+]
+}
+},
+"children": [
+{
+"name": "FJ938053.1",
+"node_attrs": {
+"div": 0.26813388439999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"T9A"
+]
+}
+}
+},
+{
+"name": "FJ938054.1",
+"node_attrs": {
+"div": 0.2880172926,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"R71G",
+"V171A"
+]
+}
+}
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000087",
+"node_attrs": {
+"div": 0.12921535869999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000088",
+"node_attrs": {
+"div": 0.14573135789999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "HQ012370.1",
+"node_attrs": {
+"div": 0.23090842909999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"I11T",
+"-78A",
+"S81T"
+]
+}
+}
+},
+{
+"name": "v5",
+"node_attrs": {
+"div": 0.24512496909999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"I132T",
+"V170T",
+"R183A",
+"T190A"
+]
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000089",
+"node_attrs": {
+"div": 0.13355817059999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000090",
+"node_attrs": {
+"div": 0.14136558409999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000091",
+"node_attrs": {
+"div": 0.14152285869999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "772363",
+"node_attrs": {
+"div": 0.2301908968,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"D56G",
+"S66T",
+"N187T"
+]
+}
+}
+},
+{
+"name": "NODE_0000092",
+"node_attrs": {
+"div": 0.15013661489999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000093",
+"node_attrs": {
+"div": 0.15013873199999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "v11",
+"node_attrs": {
+"div": 0.23894959769999996,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"R183G"
+]
+}
+}
+},
+{
+"name": "c66",
+"node_attrs": {
+"div": 0.2774456331,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"E59G",
+"S73A",
+"V108T",
+"S224G"
+]
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000094",
+"node_attrs": {
+"div": 0.16860362229999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "v7",
+"node_attrs": {
+"div": 0.2651484439,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S21T",
+"S66A",
+"E131A",
+"R183T"
+]
+}
+}
+},
+{
+"name": "NODE_0000095",
+"node_attrs": {
+"div": 0.2024126777,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"V48A"
+]
+}
+},
+"children": [
+{
+"name": "PV797400.1",
+"node_attrs": {
+"div": 0.24055407559999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S136G"
+]
+}
+}
+},
+{
+"name": "PV797403.1",
+"node_attrs": {
+"div": 0.247074361,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S21T",
+"E226A"
+]
+}
+}
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000096",
+"node_attrs": {
+"div": 0.14899048709999996,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "v1",
+"node_attrs": {
+"div": 0.21731225719999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000097",
+"node_attrs": {
+"div": 0.15909678049999995,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"N80T"
+]
+}
+},
+"children": [
+{
+"name": "HQ392471.1",
+"node_attrs": {
+"div": 0.20756589429999994,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"T80A",
+"S81T",
+"S149T"
+]
+}
+}
+},
+{
+"name": "NODE_0000098",
+"node_attrs": {
+"div": 0.16101828749999994,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000099",
+"node_attrs": {
+"div": 0.21277101689999994,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "FJ938060.1",
+"node_attrs": {
+"div": 0.21277383969999994,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000100",
+"node_attrs": {
+"div": 0.21277302189999994,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "KU215419.1",
+"node_attrs": {
+"div": 0.21277520689999993,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "FJ938061.1",
+"node_attrs": {
+"div": 0.21428006479999995,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000101",
+"node_attrs": {
+"div": 0.22894520439999994,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.865
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S81G",
+"E131A"
+]
+}
+},
+"children": [
+{
+"name": "HQ012369.1",
+"node_attrs": {
+"div": 0.24294679949999992,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000102",
+"node_attrs": {
+"div": 0.23214852109999995,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "GU553361.1",
+"node_attrs": {
+"div": 0.23215068729999994,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "GU553362.1",
+"node_attrs": {
+"div": 0.23364865909999996,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000103",
+"node_attrs": {
+"div": 0.14113747769999996,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000104",
+"node_attrs": {
+"div": 0.14982502329999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"I132T"
+]
+}
+},
+"children": [
+{
+"name": "NODE_0000105",
+"node_attrs": {
+"div": 0.17321681279999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "c46",
+"node_attrs": {
+"div": 0.24631006979999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S69A",
+"T74A",
+"S81T",
+"R183T"
+]
+}
+}
+},
+{
+"name": "v2",
+"node_attrs": {
+"div": 0.26647895349999995,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000106",
+"node_attrs": {
+"div": 0.15554228539999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "HQ012368.1",
+"node_attrs": {
+"div": 0.21653694429999998,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"I11T",
+"T74A",
+"S136T"
+]
+}
+}
+},
+{
+"name": "NODE_0000107",
+"node_attrs": {
+"div": 0.2215894758,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.865
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S66A",
+"S136-",
+"R183T"
+]
+}
+},
+"children": [
+{
+"name": "AB088223.1",
+"node_attrs": {
+"div": 0.2215922084,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "EU186072.1",
+"node_attrs": {
+"div": 0.2230395555,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+}
+]
+},
+{
+"name": "NODE_0000108",
+"node_attrs": {
+"div": 0.15060210699999996,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000109",
+"node_attrs": {
+"div": 0.24042104619999996,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.982
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"N80A",
+"S81A",
+"S106A",
+"T190A"
+]
+}
+},
+"children": [
+{
+"name": "PX315758.1",
+"node_attrs": {
+"div": 0.24042330989999997,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "PX315757.1",
+"node_attrs": {
+"div": 0.24190196309999995,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000110",
+"node_attrs": {
+"div": 0.16846623849999995,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.865
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"E59A",
+"S75T"
+]
+}
+},
+"children": [
+{
+"name": "NODE_0000111",
+"node_attrs": {
+"div": 0.23329446139999993,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.632
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S149T"
+]
+}
+},
+"children": [
+{
+"name": "HQ012371.1",
+"node_attrs": {
+"div": 0.23690555189999993,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"T75A",
+"D222A"
+]
+}
+}
+},
+{
+"name": "HQ392472.1",
+"node_attrs": {
+"div": 0.25005516269999994,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000112",
+"node_attrs": {
+"div": 0.23190333449999995,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.95
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": [
+"S66A",
+"E131A",
+"S136G"
+]
+}
+},
+"children": [
+{
+"name": "NODE_0000113",
+"node_attrs": {
+"div": 0.23341934019999994,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "FJ917524.1",
+"node_attrs": {
+"div": 0.23342155729999994,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "FJ917523.1",
+"node_attrs": {
+"div": 0.23640511589999993,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000114",
+"node_attrs": {
+"div": 0.23337521489999993,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "NODE_0000115",
+"node_attrs": {
+"div": 0.23486322459999992,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "FJ917522.1",
+"node_attrs": {
+"div": 0.23486512319999991,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "FJ917521.1",
+"node_attrs": {
+"div": 0.23486529749999993,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+},
+{
+"name": "NODE_0000116",
+"node_attrs": {
+"div": 0.23337726989999993,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "FJ917519.1",
+"node_attrs": {
+"div": 0.23337980369999994,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000117",
+"node_attrs": {
+"div": 0.23337970579999992,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "FJ917534.1",
+"node_attrs": {
+"div": 0.23337970579999992,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "NODE_0000118",
+"node_attrs": {
+"div": 0.23337970579999992,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 0.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+},
+"children": [
+{
+"name": "FJ917520.1",
+"node_attrs": {
+"div": 0.23337970579999992,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+},
+{
+"name": "FJ917535.1",
+"node_attrs": {
+"div": 0.23337970579999992,
+"bad_branch": {
+"value": "No"
+},
+"confidence": {
+"value": 1.0
+}
+},
+"branch_attrs": {
+"mutations": {
+"nuc": []
+}
+}
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+}
