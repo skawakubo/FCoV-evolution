@@ -14,7 +14,7 @@ common amino-acid axis, then draws:
      frequency, only placed on a shared axis. The sequencing-error floor stays
      visible as the grey cloud, and positions where the non-reference base is
      the majority (i.e. the reference is not that sample's consensus there —
-     a between-animal difference) are drawn as crosses and excluded.
+     a between-animal difference) are excluded, and by default not drawn.
   B  a heat map of the same values, one row per animal.
   C  how many of the animals carry an intrahost variant in each window, over a
      pale bar giving how many had usable coverage there. Counting animals, not
@@ -298,6 +298,13 @@ def build_figure(samples, data, colmap, aln_len, args, fcs_cols):
             fr = float(d["frac"][p1 - 1])
             ac = int(d["alt"][p1 - 1])
             has_data[si, ci] = True
+            if fr > hi_af and not args.keep_mismatch:
+                # The reference base is not this animal's consensus here, so the
+                # value is a difference between animals, not within one. It is
+                # already excluded from every count; by default it is not drawn
+                # either, which keeps panel A to the 0-50% range it measures.
+                # --keep-mismatch puts the crosses back.
+                continue
             noise_x.append(aa)
             noise_y.append(max(fr, floor * 0.35) if fr > 0 else floor * 0.35)
             if fr > hi_af:
@@ -359,7 +366,7 @@ def build_figure(samples, data, colmap, aln_len, args, fcs_cols):
     # ---------------- A ----------------
     if axA is not None:
         axA.set_yscale("log")
-        axA.set_ylim(floor * 0.3, 1.4)
+        axA.set_ylim(floor * 0.3, 1.4 if args.keep_mismatch else hi_af)
         axA.grid(axis="y", color=GRID, linewidth=0.6, zorder=0)
         axA.set_axisbelow(True)
         axA.scatter(noise_x, noise_y, s=1.2, color=NOISE, alpha=0.3, linewidths=0,
@@ -480,7 +487,7 @@ def build_figure(samples, data, colmap, aln_len, args, fcs_cols):
         if args.title:
             fig.suptitle(args.title, fontsize=11, x=0.0, ha="left", y=1.06,
                          va="bottom")
-        for ext in ("pdf", "png"):
+        for ext in ("pdf", "png", "svg"):
             fig.savefig(f"{args.out}.{ext}", dpi=300)
         plt.close(fig)
         return mat, has_isnv, has_data, fcs_aa
@@ -496,9 +503,14 @@ def build_figure(samples, data, colmap, aln_len, args, fcs_cols):
     handles += [
         plt.Line2D([], [], marker="o", linestyle="none", color=NOISE,
                    markersize=4, label="all positions (error floor)"),
-        plt.Line2D([], [], marker="x", linestyle="none", color="#8A9099",
-                   markersize=5, label=f"> {hi_af * 100:g}%: reference mismatch, "
-                                       f"not intrahost"),
+    ]
+    if args.keep_mismatch:
+        handles.append(
+            plt.Line2D([], [], marker="x", linestyle="none", color="#8A9099",
+                       markersize=5,
+                       label=f"> {hi_af * 100:g}%: reference mismatch, "
+                             f"not intrahost"))
+    handles += [
         Patch(facecolor=FCS, alpha=0.18, label="furin cleavage site"),
     ]
     fig.legend(handles=handles, loc="lower left", bbox_to_anchor=(0.0, 1.0),
@@ -508,7 +520,7 @@ def build_figure(samples, data, colmap, aln_len, args, fcs_cols):
         fig.suptitle(args.title, fontsize=11, x=0.0, ha="left", y=1.075,
                      va="bottom")
 
-    for ext in ("pdf", "png"):
+    for ext in ("pdf", "png", "svg"):
         fig.savefig(f"{args.out}.{ext}", dpi=300)
     plt.close(fig)
     return mat, has_isnv, has_data, fcs_aa
@@ -548,8 +560,13 @@ def main(argv=None):
                          "which means the reference is not that sample's own "
                          "consensus at that position — a between-sample "
                          "difference, not variation within the animal. Such "
-                         "positions are drawn as grey crosses and are excluded "
-                         "from panels B and C.")
+                         "positions are excluded from every count and, by "
+                         "default, are not drawn at all; see --keep-mismatch.")
+    ap.add_argument("--keep-mismatch", action="store_true",
+                    help="draw the positions above --max-af in panel A as grey "
+                         "crosses, and extend the y axis above the cut to make "
+                         "room for them. Off by default, so panel A shows only "
+                         "the 0 to --max-af range that the analysis measures.")
     ap.add_argument("--colour-by-sample", "--color-by-sample",
                     dest="colour_by_sample", action="store_true",
                     help="give each animal its own colour and marker in panel A. "

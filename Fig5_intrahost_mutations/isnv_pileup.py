@@ -802,7 +802,7 @@ def draw_aa_track(ax, c: Counts, aa_prof, args, compact=False, show_labels=True)
             name = f"{p['aa_ref']}{aa_pos}{p['alt_aa']}"
             if extra > 0:
                 name += f" +{extra}aa"
-            notes.append((f"{name}\n{p['alt_total_freq'] * 100:.1f}%",
+            notes.append((name,
                           "#B2182B" if nonsyn else "#C39490", centre))
         if has_del:
             g0, g1 = del_group.get(aa_pos, (aa_pos, aa_pos))
@@ -811,7 +811,7 @@ def draw_aa_track(ax, c: Counts, aa_prof, args, compact=False, show_labels=True)
                         else f"{aa_prof[g0]['aa_ref']}{g0}-"
                              f"{aa_prof[g1]['aa_ref']}{g1}del")
                 gx = (aa_prof[g0]["positions"][0] + aa_prof[g1]["positions"][2]) / 2.0
-                notes.append((f"{name}\n{p['del_freq'] * 100:.1f}%", "#5A6169", gx))
+                notes.append((name, "#5A6169", gx))
         drop = 0.80 if prev_noted else 0.0     # stagger neighbours
         if notes:
             note_rows = max(note_rows, (1 if drop else 0) + len(notes))
@@ -1039,7 +1039,7 @@ def figure_region(counts_by_sample, args, highlight, aa_map, out_stem, title,
                           aa_prof=(aa_prof_by_sample or {}).get(label))
     aa_key = bool(aa_prof_by_sample) and args.xaxis in ("aa", "both")
     _header(fig, title, aa_key)
-    for ext in ("pdf", "png"):
+    for ext in ("pdf", "png", "svg"):
         fig.savefig(f"{out_stem}.{ext}", dpi=300)
     plt.close(fig)
     return f"{out_stem}.pdf"
@@ -1112,7 +1112,7 @@ def figure_scan(counts_by_sample, sites_by_sample, args, out_stem, title):
         if i == nrow - 1:
             axc.set_xlabel(f"position on {c.chrom}", fontsize=7)
     _header(fig, title, False, include_ins=False)
-    for ext in ("pdf", "png"):
+    for ext in ("pdf", "png", "svg"):
         fig.savefig(f"{out_stem}.{ext}", dpi=300)
     plt.close(fig)
     return f"{out_stem}.pdf"
@@ -1185,7 +1185,7 @@ def figure_site_panels(sample_paths, ref_fa, site_list, args, out_stem, title):
                               compact=True)
     aa_key = bool(args.orf_start) and args.xaxis in ("aa", "both")
     _header(fig, title, aa_key)
-    for ext in ("pdf", "png"):
+    for ext in ("pdf", "png", "svg"):
         fig.savefig(f"{out_stem}.{ext}", dpi=300)
     plt.close(fig)
     return f"{out_stem}.pdf"
