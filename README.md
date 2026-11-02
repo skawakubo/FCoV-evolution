@@ -25,8 +25,7 @@ Fisher's exact tests comparing FIPV and FECV sequences, per gene.
 - `extract_ORF_FCoV1.ipynb` — extracts each ORF from the whole-genome alignment
 
 ### `Fig2_FCoV_tree_with_key_mutations/` — phylogenetic analyses
-- `spike_gard/` — GARD recombination screening and IQ-TREE trees for each
-  non-recombinant region (NRR); `gard/` holds the whole-genome Alphacoronavirus-1 screen
+- `spike_gard/` — GARD recombination screening and IQ-TREE trees for each non-recombinant region (NRR); `gard/` holds the raw GARD input and output of the spike sequence of FCoV-1
 - `treetime/` — TreeTime ancestral reconstruction per NRR and branch-mutation summaries
 - `phyloglm/` — phylogenetic logistic regression of biotype against key mutations,
   plus the ggtree heatmap figures
