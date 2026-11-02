@@ -1,0 +1,449 @@
+Accession	biotype	Organism_Name	Isolate	Species	Spike_Length	Geo_Location	Country	Host	Tissue_Specimen_Source	Collection_Date	Release_Date	Source
+PQ416775.1	FIPV	Feline coronavirus	H30	Alphacoronavirus suis	4407	China: Shandong	China	Felis catus	liver	2023-11-05	2025-10-01	NCBI
+PX315748.1	FIPV	Feline coronavirus	fip_37_liver	Alphacoronavirus suis	3699	United Kingdom	United Kingdom	Felis catus	liver	2011-10	2025-09-24	NCBI
+PX315749.1	FIPV	Feline coronavirus	fip_68_liver	Alphacoronavirus suis	3729	United Kingdom	United Kingdom	Felis catus	liver	2013-01-11	2025-09-24	NCBI
+PX315750.1	FIPV	Feline coronavirus	fip_68_mln	Alphacoronavirus suis	4398	United Kingdom	United Kingdom	Felis catus	lymph	2013-01-11	2025-09-24	NCBI
+PX315751.1	FIPV	Feline coronavirus	fip_86_liver	Alphacoronavirus suis	4404	United Kingdom	United Kingdom	Felis catus	liver	2013-06-07	2025-09-24	NCBI
+PX315752.1	FIPV	Feline coronavirus	fip_86_lung	Alphacoronavirus suis	4404	United Kingdom	United Kingdom	Felis catus	lung	2013-06-07	2025-09-24	NCBI
+PX315753.1	FIPV	Feline coronavirus	fip_86_mln	Alphacoronavirus suis	4404	United Kingdom	United Kingdom	Felis catus	lymph	2013-06-07	2025-09-24	NCBI
+PX315754.1	FIPV	Feline coronavirus	fip_96_mln	Alphacoronavirus suis	4401	United Kingdom	United Kingdom	Felis catus	lymph	2013-06-16	2025-09-24	NCBI
+PX315755.1	FIPV	Feline coronavirus	fip_120_liver	Alphacoronavirus suis	4404	United Kingdom	United Kingdom	Felis catus	liver	2014-09-09	2025-09-24	NCBI
+PX315756.1	FIPV	Feline coronavirus	fip_120_mln	Alphacoronavirus suis	4404	United Kingdom	United Kingdom	Felis catus	lymph	2014-09-09	2025-09-24	NCBI
+PX315757.1	FIPV	Feline coronavirus	fip_172_lung	Alphacoronavirus suis	4392	United Kingdom	United Kingdom	Felis catus	lung	2017-12-07	2025-09-24	NCBI
+PX315758.1	FIPV	Feline coronavirus	fip_172_mln	Alphacoronavirus suis	4392	United Kingdom	United Kingdom	Felis catus	lymph	2017-12-07	2025-09-24	NCBI
+PV797400.1	FECV	Feline coronavirus	FCoV/Thailand/CU30743/2022	Alphacoronavirus suis	4410	Thailand	Thailand	Felis catus	feces	2022-11	2025-06-30	NCBI
+PV797401.1	FECV	Feline coronavirus	FCoV/Thailand/CU31310/2021	Alphacoronavirus suis	4410	Thailand	Thailand	Felis catus	feces	2022-12	2025-06-30	NCBI
+PV797403.1	FECV	Feline coronavirus	FCoV/Thailand/CU33180/2023	Alphacoronavirus suis	4410	Thailand	Thailand	Felis catus	feces	2023-07	2025-06-30	NCBI
+LC880185.1	FIPV	Feline coronavirus	KU-2	Alphacoronavirus suis	4395	Aomori	Japan	Felis catus	liver	1988-12-09	2025-06-28	NCBI
+LC852817.1	FIPV	Feline coronavirus	FIPV-Aqua	Alphacoronavirus suis	3693	Japan	Japan	Felis catus	pleural effusion	2024-08-24	2025-04-03	NCBI
+PP908788.1	FECV	Feline coronavirus	FCoV/Thailand/CU27528/2021	Alphacoronavirus suis	4407	Thailand	Thailand	Felis catus	feces	2021-07	2024-06-30	NCBI
+PP908789.1	FECV	Feline coronavirus	FCoV/Thailand/CU27724/2021	Alphacoronavirus suis	4410	Thailand	Thailand	Felis catus	feces	2021-08	2024-06-30	NCBI
+PP854701.1	FIPV	Feline coronavirus	OM1164	Alphacoronavirus suis	4404	USA	USA	Otocolobus manul	lung	2008-11	2024-06-11	NCBI
+PP854702.1	FIPV	Feline coronavirus	DCB091	Alphacoronavirus suis	4404	USA	USA	Felis catus	lymph	2008-11	2024-06-11	NCBI
+OP542206.1	FIPV	Feline coronavirus	2020-FM3	Alphacoronavirus suis	4404	USA: Ohio	USA	Felis margarita	renal cortex pyogranulomas	2020-04-29	2023-10-27	NCBI
+ON595862.1	FECV	Feline coronavirus	HC-1	Alphacoronavirus suis	4413	Australia	Australia	Felis catus	feces	2018	2022-11-30	NCBI
+ON595863.1	FECV	Feline coronavirus	HC-2	Alphacoronavirus suis	4404	Australia	Australia	Felis catus	feces	2018	2022-11-30	NCBI
+ON595866.1	FECV	Feline coronavirus	HC-5	Alphacoronavirus suis	4404	Australia	Australia	Felis catus	feces	2018	2022-11-30	NCBI
+ON595867.1	FECV	Feline coronavirus	HC-6	Alphacoronavirus suis	4404	Australia	Australia	Felis catus	feces	2018	2022-11-30	NCBI
+ON595868.1	FECV	Feline coronavirus	HC-7	Alphacoronavirus suis	4404	Australia	Australia	Felis catus	feces	2018	2022-11-30	NCBI
+ON595869.1	FECV	Feline coronavirus	HC-8	Alphacoronavirus suis	4401	Australia	Australia	Felis catus	feces	2018	2022-11-30	NCBI
+ON595870.1	FECV	Feline coronavirus	HC-9	Alphacoronavirus suis	4410	Australia	Australia	Felis catus	feces	2018	2022-11-30	NCBI
+ON595871.1	FECV	Feline coronavirus	HC-10	Alphacoronavirus suis	4401	Australia	Australia	Felis catus	feces	2018	2022-11-30	NCBI
+MW308128.1	FIPV	Feline coronavirus	VP1a	Alphacoronavirus suis	4410	Germany: Kassel	Germany	Felis catus	peritoneal effusion	2006	2022-04-17	NCBI
+MW030108.1	FIPV	Feline coronavirus	QS	Alphacoronavirus suis	4410	China	China	Felis catus		2018-05	2021-02-17	NCBI
+MT444152.1	FIPV	Feline coronavirus	FIPVHF1905	Alphacoronavirus suis	3759	China	China	Felis catus		2019-05-25	2021-02-08	NCBI
+KX722529.1	FECV	Feline coronavirus	UG-FH8	Alphacoronavirus suis	4404	Belgium	Belgium	Felis catus	feces	2015-01-01	2017-12-31	NCBI
+KX722530.1	FIPV	Feline coronavirus	Cat 1 Karlslunde	Alphacoronavirus suis	3735	Denmark	Denmark	Felis catus	lung	2015-02-01	2017-12-31	NCBI
+KY566209.1	FIPV	Feline coronavirus	HLJ/HRB/2016/10	Alphacoronavirus suis	4410	China	China	Felis catus	peritoneal effusion	2016-11	2017-12-26	NCBI
+KY566210.1	FIPV	Feline coronavirus	HLJ/HRB/2016/11	Alphacoronavirus suis	4410	China	China	Felis catus	peritoneal effusion	2016-11	2017-12-26	NCBI
+KY566211.1	FIPV	Feline coronavirus	HLJ/HRB/2016/13	Alphacoronavirus suis	4410	China	China	Felis catus	peritoneal effusion	2016-11	2017-12-26	NCBI
+KY292377.1	FIPV	Feline coronavirus	HLJ/DQ/2016/01	Alphacoronavirus suis	4404	China	China	Felis catus	peritoneal effusion	2016-10	2017-06-24	NCBI
+KU215419.1	FECV	Feline coronavirus	inoculum	Alphacoronavirus suis	4404	Belgium	Belgium	Felis catus	feces	2013	2016-02-08	NCBI
+KP143507.1	FIPV	Feline coronavirus	27C	Alphacoronavirus suis	4401	United Kingdom	United Kingdom	Felis catus	colonic lymph node	2013-01-01	2015-02-23	NCBI
+KP143508.1	FIPV	Feline coronavirus	28O	Alphacoronavirus suis	4401	United Kingdom	United Kingdom	Felis catus	omentum	2013-01-01	2015-02-23	NCBI
+KP143509.1	FECV	Feline coronavirus	65F	Alphacoronavirus suis	4401	United Kingdom	United Kingdom	Felis catus	feces	2013-01-01	2015-02-23	NCBI
+KP143510.1	FECV	Feline coronavirus	67F	Alphacoronavirus suis	4401	United Kingdom	United Kingdom	Felis catus	feces	2013-01-01	2015-02-23	NCBI
+KP143511.1	FECV	Feline coronavirus	80F	Alphacoronavirus suis	4401	United Kingdom	United Kingdom	Felis catus	feces	2013-01-01	2015-02-23	NCBI
+KP143512.1	FIPV	Feline coronavirus	26M	Alphacoronavirus suis	4401	United Kingdom	United Kingdom	Felis catus	mesentery	2013-01-01	2015-02-23	NCBI
+HQ392470.1	FECV	Feline coronavirus UU19		Alphacoronavirus suis	4412	Netherlands: Utrecht	Netherlands	Feliformia		2007-08-23	2010-10-15	NCBI
+HQ392471.1	FECV	Feline coronavirus UU20		Alphacoronavirus suis	4404	Netherlands: Utrecht	Netherlands	Feliformia		2007-08-23	2010-10-15	NCBI
+HQ392472.1	FIPV	Feline coronavirus UU30		Alphacoronavirus suis	4398	Netherlands: Utrecht	Netherlands	Feliformia		2008-01-22	2010-10-15	NCBI
+HQ012367.1	FIPV	Feline coronavirus UU17		Alphacoronavirus suis	4412	Netherlands: Utrecht	Netherlands	Feliformia		2007-07-17	2010-08-14	NCBI
+HQ012368.1	FECV	Feline coronavirus UU18		Alphacoronavirus suis	4404	Netherlands: Utrecht	Netherlands	Feliformia		2007-07-24	2010-08-14	NCBI
+HQ012369.1	FIPV	Feline coronavirus UU21		Alphacoronavirus suis	3603	Netherlands	Netherlands	Feliformia		2007-09-11	2010-08-14	NCBI
+HQ012370.1	FIPV	Feline coronavirus UU24		Alphacoronavirus suis	4410	Netherlands	Netherlands	Feliformia		2008-01-03	2010-08-14	NCBI
+HQ012371.1	FECV	Feline coronavirus UU31		Alphacoronavirus suis	4407	Netherlands	Netherlands	Feliformia		2008-01-25	2010-08-14	NCBI
+GU553361.1	FECV	Feline coronavirus UU22	TCVSP-ROTTIER-00022	Alphacoronavirus suis	4401	Netherlands	Netherlands	Feliformia		2007-09-13	2010-02-08	NCBI
+GU553362.1	FECV	Feline coronavirus UU23	TCVSP-ROTTIER-00023	Alphacoronavirus suis	4401	Netherlands	Netherlands	Feliformia		2007-09-13	2010-02-08	NCBI
+FJ938051.1	FECV	Feline coronavirus RM		Alphacoronavirus suis	4401	USA: California	USA	Felis catus		2002-01-28	2009-07-11	NCBI
+FJ938052.1	FECV	Feline coronavirus UU11		Alphacoronavirus suis	4407	Netherlands: Utrecht	Netherlands	Felis catus		2007-06-05	2009-07-11	NCBI
+FJ938053.1	FECV	Feline coronavirus UU7		Alphacoronavirus suis	4401	Netherlands: Utrecht	Netherlands	Felis catus		2007-04-25	2009-07-11	NCBI
+FJ938054.1	FIPV	Feline coronavirus UU4		Alphacoronavirus suis	4398	Netherlands: Utrecht	Netherlands	Felis catus		2007-02-02	2009-07-11	NCBI
+FJ938055.1	FIPV	Feline coronavirus UU8		Alphacoronavirus suis	4407	Netherlands: Utrecht	Netherlands	Felis catus		2007-05-24	2009-07-11	NCBI
+FJ938056.1	FIPV	Feline coronavirus UU5		Alphacoronavirus suis	4401	Netherlands: Utrecht	Netherlands	Felis catus		2007-03-07	2009-07-11	NCBI
+FJ938058.1	FIPV	Feline coronavirus UU16		Alphacoronavirus suis	3699	Netherlands: Utrecht	Netherlands	Felis catus		2007-06-07	2009-07-11	NCBI
+FJ938059.1	FECV	Feline coronavirus UU10		Alphacoronavirus suis	4407	Netherlands: Utrecht	Netherlands	Felis catus		2007-06-05	2009-07-11	NCBI
+FJ938060.1	FECV	Feline coronavirus UU2		Alphacoronavirus suis	4404	USA: California	USA	Felis catus		1993-03-30	2009-07-11	NCBI
+FJ938061.1	FIPV	Feline coronavirus UU3		Alphacoronavirus suis	4278	USA: California	USA	Felis catus		1998-03-10	2009-07-11	NCBI
+FJ938062.1	FIPV	Feline coronavirus UU9		Alphacoronavirus suis	4407	Netherlands: Utrecht	Netherlands	Felis catus		2007-05-24	2009-07-11	NCBI
+EU186072.1	FIPV	Feline coronavirus	Black	Alphacoronavirus suis	4395	USA	USA				2008-01-30	NCBI
+DQ848678.1	FIPV	Feline coronavirus	C1Je	Alphacoronavirus suis	4404				jejunum		2006-09-12	NCBI
+fecv14	FECV	Feline coronavirus	fecv14	Alphacoronavirus suis	4401	Hokkaido	Japan	Felis catus	feces	2025-06-16		Izumi
+fecv22	FECV	Feline coronavirus	fecv22	Alphacoronavirus suis	4401	Hokkaido	Japan	Felis catus	feces	2025-06-16		Izumi
+fecv23	FECV	Feline coronavirus	fecv23	Alphacoronavirus suis	4406	Hokkaido	Japan	Felis catus	feces	2025-06-16		Izumi
+fecv28	FECV	Feline coronavirus	fecv28	Alphacoronavirus suis	4401	Hokkaido	Japan	Felis catus	feces	2025-06-16		Izumi
+fecv40	FECV	Feline coronavirus	fecv40	Alphacoronavirus suis	4401	Hokkaido	Japan	Felis catus	feces	2025-06-16		Izumi
+fecv50	FECV	Feline coronavirus	fecv50	Alphacoronavirus suis	4401	Hokkaido	Japan	Felis catus	feces	2025-07-07		Izumi
+fecv60	FECV	Feline coronavirus	fecv60	Alphacoronavirus suis	4404	Hokkaido	Japan	Felis catus	feces	2025-07-07		Izumi
+fecv_NARC3	FECV	Feline coronavirus	fecv_NARC3	Alphacoronavirus suis	4407	Yamaguchi	Japan	Felis catus	feces	2024-08-27		Izumi
+fecv_NARC4	FECV	Feline coronavirus	fecv_NARC4	Alphacoronavirus suis	4407	Chiba	Japan	Felis catus	feces	2024-08-27		Izumi
+fecv5	FECV	Feline coronavirus	fecv5	Alphacoronavirus suis	4401	Hokkaido	Japan	Felis catus	feces	2025-06-16		Izumi
+fecv15	FECV	Feline coronavirus	fecv15	Alphacoronavirus suis	4401	Hokkaido	Japan	Felis catus	feces	2025-06-16		Izumi
+fecv16	FECV	Feline coronavirus	fecv16	Alphacoronavirus suis	4407	Hokkaido	Japan	Felis catus	feces	2025-06-16		Izumi
+fecv30	FECV	Feline coronavirus	fecv30	Alphacoronavirus suis	4401	Hokkaido	Japan	Felis catus	feces	2025-06-16		Izumi
+fecv37	FECV	Feline coronavirus	fecv37	Alphacoronavirus suis	4401	Hokkaido	Japan	Felis catus	feces	2025-06-16		Izumi
+fecv43	FECV	Feline coronavirus	fecv43	Alphacoronavirus suis	3534	Hokkaido	Japan	Felis catus	feces	2025-06-16		Izumi
+fecv46	FECV	Feline coronavirus	fecv46	Alphacoronavirus suis	4407	Hokkaido	Japan	Felis catus	feces	2025-07-07		Izumi
+fecv47	FECV	Feline coronavirus	fecv47	Alphacoronavirus suis	4404	Hokkaido	Japan	Felis catus	feces	2025-07-07		Izumi
+fecv51	FECV	Feline coronavirus	fecv51	Alphacoronavirus suis	4401	Hokkaido	Japan	Felis catus	feces	2025-07-07		Izumi
+fecv66	FECV	Feline coronavirus	fecv66	Alphacoronavirus suis	4401	Hokkaido	Japan	Felis catus	feces	2025-07-07		Izumi
+c34	FIPV	Feline coronavirus	c34	Alphacoronavirus suis	4404	Colorado	USA	Felis catus	peritoneal effusion	2023-11-27		Izumi
+c57	FIPV	Feline coronavirus	c57	Alphacoronavirus suis	4386	Colorado	USA	Felis catus	peritoneal effusion	2024-01-05		Izumi
+c66	FIPV	Feline coronavirus	c66	Alphacoronavirus suis	4407	Colorado	USA	Felis catus	peritoneal effusion	2024-01-17		Izumi
+c77	FIPV	Feline coronavirus	c77	Alphacoronavirus suis	4389	Colorado	USA	Felis catus	peritoneal effusion	2024-01-29		Izumi
+c33	FIPV	Feline coronavirus	c33	Alphacoronavirus suis	3777	Colorado	USA	Felis catus	peritoneal effusion	2023-11-27		Izumi
+c46	FIPV	Feline coronavirus	c46	Alphacoronavirus suis	3681	Colorado	USA	Felis catus	pleural effusion	2023-12-14		Izumi
+c112	FIPV	Feline coronavirus	c112	Alphacoronavirus suis	4401	Colorado	USA	Felis catus	peritoneal effusion	2024-09-06		Izumi
+c63	FIPV	Feline coronavirus	c63	Alphacoronavirus suis	4395	Colorado	USA	Felis catus	peritoneal effusion	2024-01-16		Izumi
+772363	FIPV	Feline coronavirus	772363	Alphacoronavirus suis	4404	California	USA	Felis catus	effusion	2024-8-14		Izumi
+775024	FIPV	Feline coronavirus	775024	Alphacoronavirus suis	4398	California	USA	Felis catus	effusion	2024-10-29		Izumi
+22N2321	FIPV	Feline coronavirus	22N2321	Alphacoronavirus suis	4404	California	USA	Felis catus	effusion	2022-11-17		Izumi
+v5	FIPV	Feline coronavirus	v5	Alphacoronavirus suis	4395	Saitama	Japan	Felis catus	peritoneal effusion	2023-01-17		Izumi
+v4	FIPV	Feline coronavirus	v4	Alphacoronavirus suis	4401	Saitama	Japan	Felis catus	pleural effusion	2023-12-02		Izumi
+r1	FIPV	Feline coronavirus	r1	Alphacoronavirus suis	4404	Hokkaido	Japan	Felis catus	peritoneal effusion	2023-05-17		Izumi
+v7	FIPV	Feline coronavirus	v7	Alphacoronavirus suis	4380	Saitama	Japan	Felis catus	liver	2024-06-29		Izumi
+h6	FIPV	Feline coronavirus	h6	Alphacoronavirus suis	4389	Hokkaido	Japan	Felis catus	peritoneal effusion	2023-06-21		Izumi
+v11	FIPV	Feline coronavirus	v11	Alphacoronavirus suis	4404	Hokkaido	Japan	Felis catus	peritoneal effusion	2024-08-05		Izumi
+r2	FIPV	Feline coronavirus	r2	Alphacoronavirus suis	4404	Hokkaido	Japan	Felis catus	peritoneal effusion	2024-04-22		Izumi
+v2	FIPV	Feline coronavirus	v2	Alphacoronavirus suis	4391	Saitama	Japan	Felis catus	jejunal lymph nodes	2023-09-06		Izumi
+h7	FIPV	Feline coronavirus	h7	Alphacoronavirus suis	4398	Hokkaido	Japan	Felis catus	peritoneal effusion	2023-07-04		Izumi
+h2	FIPV	Feline coronavirus	h2	Alphacoronavirus suis	4401	Hokkaido	Japan	Felis catus	peritoneal effusion	2023-03-24		Izumi
+r3	FIPV	Feline coronavirus	r3	Alphacoronavirus suis	3798	Hokkaido	Japan	Felis catus	peritoneal effusion	2024-04-24		Izumi
+v1	FIPV	Feline coronavirus	v1	Alphacoronavirus suis	4392	Saitama	Japan	Felis catus	peritoneal effusion	2023-09-07		Izumi
+MH817484.1	FECV	Feline alphacoronavirus 1	22	Feline alphacoronavirus 1	4404	Brazil	Brazil	Felis catus	feces	2015	2018-10-09	NCBI
+NC_028806.1	SeCoV	Swine enteric coronavirus		Alphacoronavirus suis	4149	Italy	Italy	Sus scrofa		2009-09-04	2016-01-05	NCBI
+MN692770.1	SeCoV	Swine enteric coronavirus	SeCoV-1480-Murcia-Lorca	Alphacoronavirus suis	4152	Spain	Spain	Sus scrofa		2014-05-30	2020-06-24	NCBI
+LT545990.1	SeCoV	Swine enteric coronavirus	SeCoV/GER/L00930/2012	Alphacoronavirus suis	4152	Germany	Germany	Sus scrofa		2012	2016-05-14	NCBI
+KR061459.1	SeCoV	Swine enteric coronavirus		Alphacoronavirus suis	4149	Italy	Italy	Sus scrofa		2009-09-04	2015-12-13	NCBI
+JQ304323.1	FECV	Feline coronavirus	FECV9	taxon:12663	492		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+OK236292.1	FIPV	Feline coronavirus	FIPV/HB/WH/2019/11/Runtu	taxon:12663	306		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+JQ304336.1	FECV	Feline coronavirus	FECV179	taxon:12663	492		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304435.1	FIPV	Feline coronavirus	fecesFIPV74	taxon:12663	474		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304371.1	FECV	Feline coronavirus	FECV418	taxon:12663	505		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304375.1	FECV	Feline coronavirus	FECV422	taxon:12663	534		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304378.1	FECV	Feline coronavirus	FECV481	taxon:12663	102		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304413.1	FECV	Feline coronavirus	FECV762	taxon:12663	559		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304311.1	FIPV	Feline coronavirus	fecesFIPV299	taxon:12663	492		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+MW225976.1	FIPV	Feline infectious peritonitis virus	Biko_effusion	taxon:11135	189		Italy	Felis catus	effusion	2019	18-JAN-2021	NCBI
+JQ304366.1	FECV	Feline coronavirus	FECV402	taxon:12663	540		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304513.1	FIPV	Feline coronavirus	FIPV908	taxon:12663	511		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304369.1	FECV	Feline coronavirus	FECV415	taxon:12663	571		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304411.1	FECV	Feline coronavirus	FECV760	taxon:12663	559		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+FJ917531.1	FIPV	Feline coronavirus	FIPV-UCD11a-1b	taxon:12663	2217		USA	Felis catus (cat)	diseased lesional tissue	02-Apr-2008	24-JUL-2016	NCBI
+OK236298.1	FIPV	Feline coronavirus	FIPV/HB/WH/2019/25/Heiya	taxon:12663	306		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+JQ304460.1	FIPV	Feline coronavirus	FIPV262	taxon:12663	474		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+PP901887.1	FIPV	Feline coronavirus	FCoV/Thailand/CUFIP3031/2021	taxon:12663	576		Thailand	Felis catus	abdominal fluid	Nov-2021	30-JUN-2024	NCBI
+FJ917524.1	FIPV	Feline coronavirus	FIPV-UCD14	taxon:12663	4386		USA	Felis catus (cat)	diseased lesional tissue	11-May-2007	24-JUL-2016	NCBI
+JQ304304.1	FIPV	Feline coronavirus	bloodFIPV583	taxon:12663	538		Netherlands	Felis catus	buffy coat		12-JUL-2012	NCBI
+PP901890.1	FIPV	Feline coronavirus	FCoV/Thailand/CUFIP3280/2021	taxon:12663	576		Thailand	Felis catus	abdominal fluid	Nov-2021	30-JUN-2024	NCBI
+JQ304341.1	FECV	Feline coronavirus	FECV218	taxon:12663	474		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304296.1	FIPV	Feline coronavirus	ascitesFIPV624	taxon:12663	565		Netherlands	Felis catus	ascites		12-JUL-2012	NCBI
+JQ304324.1	FECV	Feline coronavirus	FECV11	taxon:12663	492		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+HF954971.1	FIPV	Feline coronavirus	FIPV 151643-2	taxon:12663	152		USA:NY	Felis catus	spleen of a diseased cat	2008	03-JUL-2013	NCBI
+JQ304339.1	FECV	Feline coronavirus	FECV205	taxon:12663	542		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+OK236291.1	FIPV	Feline coronavirus	FIPV/HB/WH/2019/1/Chami	taxon:12663	306		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+JQ304455.1	FIPV	Feline coronavirus	FIPV117	taxon:12663	492		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+MW225963.1	FIPV	Feline infectious peritonitis virus	444/17	taxon:11135	189		Italy	Felis catus	effusion	2017	18-JAN-2021	NCBI
+JQ304309.1	FIPV	Feline coronavirus	fecesFIPV150	taxon:12663	545		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304322.1	FIPV	Feline coronavirus	fecesFIPV810	taxon:12663	554		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304389.1	FECV	Feline coronavirus	FECV585	taxon:12663	529		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+PP097361.1	FIPV	Feline coronavirus	FIPV/UGM/CP	taxon:12663	360		Indonesia	Felis catus	ascites	2021	04-FEB-2024	NCBI
+JQ304419.1	FECV	Feline coronavirus	FECV773	taxon:12663	562		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304310.1	FIPV	Feline coronavirus	fecesFIPV205	taxon:12663	474		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304512.1	FIPV	Feline coronavirus	FIPV907	taxon:12663	559		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+OK236303.1	FIPV	Feline coronavirus	FIPV/HB/WH/2019/47/Luna	taxon:12663	183		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+JQ304381.1	FECV	Feline coronavirus	FECV556	taxon:12663	540		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304354.1	FECV	Feline coronavirus	FECV276	taxon:12663	540		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304390.1	FECV	Feline coronavirus	FECV593	taxon:12663	533		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+HF954956.1	FIPV	Feline coronavirus	FIPV D05 77-2	taxon:12663	156		USA:NC	Felis catus	cerebellum of a diseased cat	2005	03-JUL-2013	NCBI
+OK236304.1	FIPV	Feline coronavirus	FIPV/HB/WH/2019/48/Wubai	taxon:12663	195		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+JQ304461.1	FIPV	Feline coronavirus	FIPV263	taxon:12663	474		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304498.1	FIPV	Feline coronavirus	FIPV815	taxon:12663	549		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304484.1	FIPV	Feline coronavirus	FIPV621	taxon:12663	564		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304424.1	FECV	Feline coronavirus	FECV782	taxon:12663	558		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304459.1	FIPV	Feline coronavirus	FIPV229	taxon:12663	542		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304325.1	FECV	Feline coronavirus	FECV111	taxon:12663	492		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304518.1	FIPV	Feline coronavirus	FIPV928	taxon:12663	553		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304376.1	FECV	Feline coronavirus	FECV433	taxon:12663	530		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304476.1	FIPV	Feline coronavirus	FIPV584	taxon:12663	531		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+OK236295.1	FIPV	Feline coronavirus	FIPV/HB/WH/2019/18/Jiujiu	taxon:12663	159		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+HF954932.1	FECV	Feline coronavirus	FECV 129	taxon:12663	153		USA:WI	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+HF954957.1	FIPV	Feline coronavirus	FIPV 07 129308-1	taxon:12663	147		USA:NY	Felis catus	mesentery of a diseased cat	2007	03-JUL-2013	NCBI
+JQ304347.1	FECV	Feline coronavirus	FECV236	taxon:12663	539		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304373.1	FECV	Feline coronavirus	FECV420	taxon:12663	549		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304406.1	FECV	Feline coronavirus	FECV754	taxon:12663	494		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304471.1	FIPV	Feline coronavirus	FIPV494	taxon:12663	531		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304408.1	FECV	Feline coronavirus	FECV756	taxon:12663	558		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304509.1	FIPV	Feline coronavirus	FIPV892	taxon:12663	559		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304481.1	FIPV	Feline coronavirus	FIPV615	taxon:12663	562		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+FJ917527.1	FIPV	Feline coronavirus	FIPV-UCD17	taxon:12663	186		USA	Felis catus (cat)	diseased lesional tissue	18-Feb-2008	24-JUL-2016	NCBI
+HF954970.1	FIPV	Feline coronavirus	FIPV 151643-1	taxon:12663	152		USA:NY	Felis catus	heart of a diseased cat	2008	03-JUL-2013	NCBI
+JQ304372.1	FECV	Feline coronavirus	FECV419	taxon:12663	569		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304453.1	FIPV	Feline coronavirus	FIPV108	taxon:12663	405		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304479.1	FIPV	Feline coronavirus	FIPV603	taxon:12663	540		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304450.1	FIPV	Feline coronavirus	FIPV61	taxon:12663	492		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304517.1	FIPV	Feline coronavirus	FIPV921	taxon:12663	549		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304350.1	FECV	Feline coronavirus	FECV254	taxon:12663	492		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304314.1	FIPV	Feline coronavirus	fecesFIPV615	taxon:12663	563		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+MW225964.1	FIPV	Feline infectious peritonitis virus	475/12	taxon:11135	189		Italy	Felis catus	effusion	2012	18-JAN-2021	NCBI
+JQ304317.1	FIPV	Feline coronavirus	fecesFIPV635	taxon:12663	559		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+OK236299.1	FIPV	Feline coronavirus	FIPV/HB/WH/2019/28/Kele	taxon:12663	306		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+JQ304335.1	FECV	Feline coronavirus	FECV176	taxon:12663	537		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304466.1	FIPV	Feline coronavirus	FIPV334	taxon:12663	334		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+PP097358.1	FIPV	Feline coronavirus	FIPV/UGM/BMO	taxon:12663	357		Indonesia	Felis catus	ascites	2021	04-FEB-2024	NCBI
+MW225968.1	FIPV	Feline infectious peritonitis virus	862/15	taxon:11135	189		Italy	Felis catus	effusion	2015	18-JAN-2021	NCBI
+MW225959.1	FIPV	Feline infectious peritonitis virus	348/18	taxon:11135	189		Italy	Felis catus	liver	2018	18-JAN-2021	NCBI
+JQ304327.1	FECV	Feline coronavirus	FECV123	taxon:12663	492		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304467.1	FIPV	Feline coronavirus	FIPV336	taxon:12663	506		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304319.1	FIPV	Feline coronavirus	fecesFIPV661	taxon:12663	565		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304391.1	FECV	Feline coronavirus	FECV606	taxon:12663	549		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304340.1	FECV	Feline coronavirus	FECV216	taxon:12663	474		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304405.1	FECV	Feline coronavirus	FECV739	taxon:12663	564		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+OK236343.1	FIPV	Feline coronavirus	FIPV/HB/WH/2020/73/Xiaoba	taxon:12663	306		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+HF954964.1	FIPV	Feline coronavirus	FIPV N05 110-2	taxon:12663	152		USA:NY	Felis catus	cerebellum of a diseased cat	2005	03-JUL-2013	NCBI
+OR908445.1	FIPV	Feline coronavirus	FIPV/UGM/MKO	taxon:12663	357		Indonesia	Felis catus	ascites	2021	12-DEC-2023	NCBI
+JQ304488.1	FIPV	Feline coronavirus	FIPV661	taxon:12663	566		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+HF954942.1	FECV	Feline coronavirus	FECV 143	taxon:12663	152		USA:IA	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+PP901882.1	FIPV	Feline coronavirus	FCoV/Thailand/CUFIP601/2021	taxon:12663	1899		Thailand	Felis catus	abdominal fluid	Feb-2021	30-JUN-2024	NCBI
+D32044.1	FIPV	Feline infectious peritonitis virus		taxon:11135	4395						01-FEB-2000	NCBI
+OK236305.1	FIPV	Feline coronavirus	FIPV/HB/WH/2019/8/Hanhan	taxon:12663	303		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+PP901884.1	FIPV	Feline coronavirus	FCoV/Thailand/CUFIP2921/2021	taxon:12663	1899		Thailand	Felis catus	abdominal fluid	Oct-2021	30-JUN-2024	NCBI
+OK236300.1	FIPV	Feline coronavirus	FIPV/HB/WH/2019/3/Maodou	taxon:12663	306		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+FJ917525.1	FIPV	Feline coronavirus	FIPV-UCD15a	taxon:12663	159		USA	Felis catus (cat)	diseased lesional tissue	11-Apr-2008	24-JUL-2016	NCBI
+MW225966.1	FIPV	Feline infectious peritonitis virus	700/17	taxon:11135	189		Italy	Felis catus	effusion	2017	18-JAN-2021	NCBI
+JQ304505.1	FIPV	Feline coronavirus	FIPV869	taxon:12663	563		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304446.1	FIPV	Feline coronavirus	FIPV7	taxon:12663	539		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+HF954935.1	FECV	Feline coronavirus	FECV 135	taxon:12663	152		USA:IA	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+JQ304404.1	FECV	Feline coronavirus	FECV737	taxon:12663	381		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+OK236301.1	FIPV	Feline coronavirus	FIPV/HB/WH/2019/38/Wanwan	taxon:12663	306		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+JQ304441.1	FIPV	Feline coronavirus	FIPV139	taxon:12663	531		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304392.1	FECV	Feline coronavirus	FECV614	taxon:12663	549		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304334.1	FECV	Feline coronavirus	FECV169	taxon:12663	430		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304438.1	FIPV	Feline coronavirus	FIPV321	taxon:12663	538		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304299.1	FIPV	Feline coronavirus	bloodFIPV1574	taxon:12663	492		Netherlands	Felis catus	buffy coat		12-JUL-2012	NCBI
+JQ304307.1	FIPV	Feline coronavirus	bloodFIPV892	taxon:12663	561		Netherlands	Felis catus	buffy coat		12-JUL-2012	NCBI
+JQ304520.1	FIPV	Feline coronavirus	serumFIPV283	taxon:12663	474		Netherlands	Felis catus	serum		12-JUL-2012	NCBI
+JQ304445.1	FIPV	Feline coronavirus	FIPV6	taxon:12663	561		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+PP901886.1	FIPV	Feline coronavirus	FCoV/Thailand/CUFIP3011/2021	taxon:12663	576		Thailand	Felis catus	abdominal fluid	Nov-2021	30-JUN-2024	NCBI
+FJ917520.1	FIPV	Feline coronavirus	FIPV-UCD11b	taxon:12663	4413		USA	Felis catus (cat)	diseased lesional tissue	31-Jan-2008	24-JUL-2016	NCBI
+FJ943761.1	FECV	Feline coronavirus	FECV-UCD3a	taxon:12663	144		USA	Felis catus (cat)	feces	11-May-2007	02-JUN-2009	NCBI
+JQ304333.1	FECV	Feline coronavirus	FECV167	taxon:12663	453		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304374.1	FECV	Feline coronavirus	FECV421	taxon:12663	535		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304398.1	FECV	Feline coronavirus	FECV669	taxon:12663	565		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304315.1	FIPV	Feline coronavirus	fecesFIPV619	taxon:12663	559		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304483.1	FIPV	Feline coronavirus	FIPV619	taxon:12663	552		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304428.1	FECV	Feline coronavirus	FECV834	taxon:12663	368		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304396.1	FECV	Feline coronavirus	FECV665	taxon:12663	552		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+AB088223.1	FIPV	Feline infectious peritonitis virus		taxon:11135	4389						26-JUN-2008	NCBI
+JQ304416.1	FECV	Feline coronavirus	FECV767	taxon:12663	527		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304344.1	FECV	Feline coronavirus	FECV224	taxon:12663	474		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+FJ917528.1	FIPV	Feline coronavirus	FIPV-UCD18a	taxon:12663	132		USA	Felis catus (cat)	diseased lesional tissue	30-Sep-2008	24-JUL-2016	NCBI
+JQ304514.1	FIPV	Feline coronavirus	FIPV909	taxon:12663	560		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304377.1	FECV	Feline coronavirus	FECV460	taxon:12663	537		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304469.1	FIPV	Feline coronavirus	FIPV408	taxon:12663	521		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304462.1	FIPV	Feline coronavirus	FIPV264	taxon:12663	541		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+MW225979.1	FIPV	Feline infectious peritonitis virus	402/06	taxon:11135	189		Italy	Felis catus	spleen	2006	18-JAN-2021	NCBI
+MW225969.1	FIPV	Feline infectious peritonitis virus	973/15	taxon:11135	189		Italy	Felis catus	brain	2015	18-JAN-2021	NCBI
+JQ304470.1	FIPV	Feline coronavirus	FIPV436	taxon:12663	327		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304367.1	FECV	Feline coronavirus	FECV407	taxon:12663	541		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304364.1	FECV	Feline coronavirus	FECV392	taxon:12663	539		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+HF954962.1	FIPV	Feline coronavirus	FIPV N05 48-1	taxon:12663	156		USA:VA	Felis catus	cerebellum of a diseased cat	2005	03-JUL-2013	NCBI
+HF954946.1	FECV	Feline coronavirus	FECV 150	taxon:12663	156		USA:NY	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+JQ304443.1	FIPV	Feline coronavirus	FIPV545	taxon:12663	534		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304386.1	FECV	Feline coronavirus	FECV573	taxon:12663	540		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304345.1	FECV	Feline coronavirus	FECV225	taxon:12663	533		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+HF954969.1	FIPV	Feline coronavirus	FIPV D04 93-2	taxon:12663	147		USA:PA	Felis catus	cerebrum of a diseased cat	2004	03-JUL-2013	NCBI
+HF954963.1	FIPV	Feline coronavirus	FIPV N05 110-1	taxon:12663	156		USA:NY	Felis catus	mesenteric lymph node of a diseased cat	2005	03-JUL-2013	NCBI
+JQ304439.1	FIPV	Feline coronavirus	FIPV429	taxon:12663	474		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304415.1	FECV	Feline coronavirus	FECV765	taxon:12663	557		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+MW225967.1	FIPV	Feline infectious peritonitis virus	759/15	taxon:11135	189		Italy	Felis catus	effusion	2015	18-JAN-2021	NCBI
+HF954936.1	FECV	Feline coronavirus	FECV 136	taxon:12663	152		USA:IA	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+JQ304338.1	FECV	Feline coronavirus	FECV197	taxon:12663	491		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304360.1	FECV	Feline coronavirus	FECV351	taxon:12663	510		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304394.1	FECV	Feline coronavirus	FECV627	taxon:12663	541		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304380.1	FECV	Feline coronavirus	FECV515	taxon:12663	540		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+HF954952.1	FIPV	Feline coronavirus	FIPV D06 327-2	taxon:12663	152		USA:NY	Felis catus	mesentery of a diseased cat	2006	03-JUL-2013	NCBI
+JQ304379.1	FECV	Feline coronavirus	FECV494	taxon:12663	452		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+OK236293.1	FIPV	Feline coronavirus	FIPV/HB/WH/2019/15/Latiao	taxon:12663	195		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+HF954967.1	FIPV	Feline coronavirus	FIPV D04 397-2	taxon:12663	152		USA:PA	Felis catus	mesenteric lymph node of a diseased cat	2004	03-JUL-2013	NCBI
+JQ304482.1	FIPV	Feline coronavirus	FIPV616	taxon:12663	549		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304480.1	FIPV	Feline coronavirus	FIPV612	taxon:12663	495		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304516.1	FIPV	Feline coronavirus	FIPV912	taxon:12663	559		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+HF954929.1	FECV	Feline coronavirus	FECV 125	taxon:12663	152		USA:WI	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+HF954947.1	FECV	Feline coronavirus	FECV 152	taxon:12663	152		USA:MI	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+JQ304447.1	FIPV	Feline coronavirus	FIPV37	taxon:12663	491		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304308.1	FIPV	Feline coronavirus	fecesFIPV107	taxon:12663	422		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+HF954965.1	FIPV	Feline coronavirus	FIPV N07 95-1	taxon:12663	156		USA:NY	Felis catus	cerebrum of a diseased cat	2007	03-JUL-2013	NCBI
+JQ304458.1	FIPV	Feline coronavirus	FIPV228	taxon:12663	539		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304504.1	FIPV	Feline coronavirus	FIPV860	taxon:12663	556		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304511.1	FIPV	Feline coronavirus	FIPV905	taxon:12663	559		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304402.1	FECV	Feline coronavirus	FECV690	taxon:12663	531		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+PP901878.1	FIPV	Feline coronavirus	FCoV/Thailand/CUFIP2922/2021	taxon:12663	4407		Thailand	Felis catus	abdominal fluid	Oct-2021	30-JUN-2024	NCBI
+JQ304359.1	FECV	Feline coronavirus	FECV341	taxon:12663	506		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304400.1	FECV	Feline coronavirus	FECV672	taxon:12663	565		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304410.1	FECV	Feline coronavirus	FECV758	taxon:12663	558		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+OQ196089.1	FIPV	Feline coronavirus	FCoV/GD/GZ/2018/06/FIP	taxon:12663	360		China	feline	ascites	2020-05	26-JUL-2023	NCBI
+HF954958.1	FIPV	Feline coronavirus	FIPV 08 153990-1	taxon:12663	147		USA:PA	Felis catus	kidney of a diseased cat	2008	03-JUL-2013	NCBI
+FJ917519.1	FIPV	Feline coronavirus	FIPV-UCD11a	taxon:12663	4413		USA	Felis catus (cat)	diseased lesional tissue	31-Jan-2008	24-JUL-2016	NCBI
+JQ304321.1	FIPV	Feline coronavirus	fecesFIPV23	taxon:12663	474		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304301.1	FIPV	Feline coronavirus	bloodFIPV283	taxon:12663	549		Netherlands	Felis catus	buffy coat		12-JUL-2012	NCBI
+JQ304463.1	FIPV	Feline coronavirus	FIPV301	taxon:12663	474		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304370.1	FECV	Feline coronavirus	FECV417	taxon:12663	571		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+FJ917521.1	FIPV	Feline coronavirus	FIPV-UCD12	taxon:12663	4413		USA	Felis catus (cat)	diseased lesional tissue	12-Feb-2008	24-JUL-2016	NCBI
+JQ304437.1	FIPV	Feline coronavirus	FIPV299	taxon:12663	539		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304426.1	FECV	Feline coronavirus	FECV788	taxon:12663	449		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304503.1	FIPV	Feline coronavirus	FIPV857	taxon:12663	546		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304332.1	FECV	Feline coronavirus	FECV152	taxon:12663	492		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+FJ943762.1	FECV	Feline coronavirus	FECV-UCD3b	taxon:12663	144		USA	Felis catus (cat)	feces	11-May-2007	02-JUN-2009	NCBI
+JQ304295.1	FIPV	Feline coronavirus	ascitesFIPV812	taxon:12663	543		Netherlands	Felis catus	ascites		12-JUL-2012	NCBI
+JQ304302.1	FIPV	Feline coronavirus	bloodFIPV334	taxon:12663	540		Netherlands	Felis catus	buffy coat		12-JUL-2012	NCBI
+JQ304313.1	FIPV	Feline coronavirus	fecesFIPV612	taxon:12663	547		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+HF954934.1	FECV	Feline coronavirus	FECV 132	taxon:12663	152		USA:WI	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+JQ304440.1	FIPV	Feline coronavirus	FIPV658	taxon:12663	555		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304362.1	FECV	Feline coronavirus	FECV388	taxon:12663	540		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+HF954955.1	FIPV	Feline coronavirus	FIPV D05 77-1	taxon:12663	156		USA:NC	Felis catus	Kidney of a diseased cat	2005	03-JUL-2013	NCBI
+JQ304519.1	FIPV	Feline coronavirus	plasmaFIPV621	taxon:12663	559		Netherlands	Felis catus	plasma		12-JUL-2012	NCBI
+JQ304485.1	FIPV	Feline coronavirus	FIPV622	taxon:12663	549		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+HF954943.1	FECV	Feline coronavirus	FECV 144	taxon:12663	160		USA:IA	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+MW225957.1	FIPV	Feline infectious peritonitis virus	686/19-10	taxon:11135	189		Italy	Felis catus	effusion	2019	18-JAN-2021	NCBI
+JQ304451.1	FIPV	Feline coronavirus	FIPV68	taxon:12663	492		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304478.1	FIPV	Feline coronavirus	FIPV589	taxon:12663	537		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+HF954972.1	FECV	Feline coronavirus	FECV 234-2008	taxon:12663	147		USA:PA	Felis catus	feces of a healthy cat	2008	03-JUL-2013	NCBI
+JQ304365.1	FECV	Feline coronavirus	FECV396	taxon:12663	540		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304499.1	FIPV	Feline coronavirus	FIPV816	taxon:12663	549		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+FJ943764.1	FIPV	Feline coronavirus	FIPV-UCD13	taxon:12663	144		USA	Felis catus (cat)	feces	17-Jan-2008	02-JUN-2009	NCBI
+PP901888.1	FIPV	Feline coronavirus	FCoV/Thailand/CUFIP3161/2021	taxon:12663	573		Thailand	Felis catus	abdominal fluid	Nov-2021	30-JUN-2024	NCBI
+JQ304305.1	FIPV	Feline coronavirus	bloodFIPV810	taxon:12663	553		Netherlands	Felis catus	buffy coat		12-JUL-2012	NCBI
+MW225961.1	FIPV	Feline infectious peritonitis virus	32/08	taxon:11135	189		Italy	Felis catus	effusion	2008	18-JAN-2021	NCBI
+HF954974.1	FECV	Feline coronavirus	FECV 304-2008	taxon:12663	147		USA:PA	Felis catus	feces of a healthy cat	2008	03-JUL-2013	NCBI
+HF954927.1	FECV	Feline coronavirus	FECV 110	taxon:12663	156		USA:CT	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+JQ304300.1	FECV	Feline coronavirus	bloodFECV316	taxon:12663	491		Netherlands	Felis catus	buffy coat		12-JUL-2012	NCBI
+JQ304412.1	FECV	Feline coronavirus	FECV761	taxon:12663	555		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+PP901885.1	FIPV	Feline coronavirus	FCoV/Thailand/CUFIP2960/2021	taxon:12663	1899		Thailand	Felis catus	abdominal fluid	Oct-2021	30-JUN-2024	NCBI
+JQ304432.1	FECV	Feline coronavirus	FECV881	taxon:12663	539		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304337.1	FECV	Feline coronavirus	FECV195	taxon:12663	537		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304477.1	FIPV	Feline coronavirus	FIPV585	taxon:12663	531		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+AB088222.1	FIPV	Feline infectious peritonitis virus		taxon:11135	4374						26-JUN-2008	NCBI
+JQ304515.1	FIPV	Feline coronavirus	FIPV911	taxon:12663	559		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304444.1	FIPV	Feline coronavirus	FIPV654	taxon:12663	549		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+HF954948.1	FECV	Feline coronavirus	FECV 153	taxon:12663	152		USA:NY	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+JQ304297.1	FIPV	Feline coronavirus	ascitesFIPV658	taxon:12663	522		Netherlands	Felis catus	ascites		12-JUL-2012	NCBI
+FJ917533.1	FIPV	Feline coronavirus	FIPV-UCD11b-1b	taxon:12663	186		USA	Felis catus (cat)	diseased lesional tissue	31-Mar-2008	24-JUL-2016	NCBI
+MW225980.1	FIPV	Feline infectious peritonitis virus	391/06	taxon:11135	189		Italy	Felis catus	effusion	2006	18-JAN-2021	NCBI
+JQ304346.1	FECV	Feline coronavirus	FECV227	taxon:12663	474		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304358.1	FECV	Feline coronavirus	FECV340	taxon:12663	508		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304510.1	FIPV	Feline coronavirus	FIPV893	taxon:12663	546		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+HF954931.1	FECV	Feline coronavirus	FECV 128	taxon:12663	152		USA:WI	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+PP901889.1	FIPV	Feline coronavirus	FCoV/Thailand/CUFIP3175/2021	taxon:12663	576		Thailand	Felis catus	abdominal fluid	Nov-2021	30-JUN-2024	NCBI
+FJ917522.1	FECV	Feline coronavirus	FECV-UCD5	taxon:12663	4413		USA	Felis catus (cat)	diseased lesional tissue	12-Feb-2008	24-JUL-2016	NCBI
+HF954930.1	FECV	Feline coronavirus	FECV 126	taxon:12663	147		USA:WI	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+JQ304452.1	FIPV	Feline coronavirus	FIPV74	taxon:12663	533		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+HF954975.1	FECV	Feline coronavirus	FECV 304-2012	taxon:12663	147		USA:PA	Felis catus	feces of a healthy cat	2012	03-JUL-2013	NCBI
+HF954949.1	FECV	Feline coronavirus	FECV 155	taxon:12663	152		USA:NY	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+JQ304418.1	FECV	Feline coronavirus	FECV770	taxon:12663	562		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+FJ943771.1	FECV	Feline coronavirus	FECV-UCD6	taxon:12663	141		USA	Felis catus (cat)	feces	05-May-2008	02-JUN-2009	NCBI
+JQ304434.1	FIPV	Feline coronavirus	FIPV867	taxon:12663	559		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+FJ943769.1	FIPV	Feline coronavirus	FIPV-UCD15b	taxon:12663	159		USA	Felis catus (cat)	feces	11-Apr-2008	02-JUN-2009	NCBI
+FJ943765.1	FIPV	Feline coronavirus	FIPV-UCD12	taxon:12663	144		USA	Felis catus (cat)	feces	12-Feb-2008	02-JUN-2009	NCBI
+JQ304393.1	FECV	Feline coronavirus	FECV626	taxon:12663	559		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304306.1	FIPV	Feline coronavirus	bloodFIPV869	taxon:12663	376		Netherlands	Felis catus	buffy coat		12-JUL-2012	NCBI
+JQ304318.1	FIPV	Feline coronavirus	fecesFIPV658	taxon:12663	523		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304493.1	FIPV	Feline coronavirus	FIPV747	taxon:12663	558		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+HF954966.1	FIPV	Feline coronavirus	FIPV D04 397-1	taxon:12663	153		USA:PA	Felis catus	spleen of a diseased cat	2004	03-JUL-2013	NCBI
+JQ304429.1	FECV	Feline coronavirus	FECV841	taxon:12663	555		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304431.1	FECV	Feline coronavirus	FECV880	taxon:12663	543		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+MW225965.1	FIPV	Feline infectious peritonitis virus	646/16	taxon:11135	189		Italy	Felis catus	effusion	2016	18-JAN-2021	NCBI
+JQ304383.1	FECV	Feline coronavirus	FECV560	taxon:12663	539		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304502.1	FIPV	Feline coronavirus	FIPV829	taxon:12663	486		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304474.1	FIPV	Feline coronavirus	FIPV555	taxon:12663	495		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304456.1	FIPV	Feline coronavirus	FIPV120	taxon:12663	492		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+HF954959.1	FIPV	Feline coronavirus	FIPV 08 153990-2	taxon:12663	147		USA:PA	Felis catus	brain stem of a diseased cat	2008	03-JUL-2013	NCBI
+JQ304298.1	FIPV	Feline coronavirus	ascitesFIPV684	taxon:12663	559		Netherlands	Felis catus	ascites		12-JUL-2012	NCBI
+FJ917535.1	FIPV	Feline coronavirus	FIPV-UCD11b-2b	taxon:12663	4413		USA	Felis catus (cat)	diseased lesional tissue	04-Apr-2008	24-JUL-2016	NCBI
+JQ304486.1	FIPV	Feline coronavirus	FIPV624	taxon:12663	571		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304449.1	FIPV	Feline coronavirus	FIPV46	taxon:12663	307		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304403.1	FECV	Feline coronavirus	FECV691	taxon:12663	459		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304417.1	FECV	Feline coronavirus	FECV769	taxon:12663	560		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+FJ917530.1	FIPV	Feline coronavirus	FIPV-UCD11a-1a	taxon:12663	2217		USA	Felis catus (cat)	diseased lesional tissue	02-Apr-2008	24-JUL-2016	NCBI
+JQ304442.1	FIPV	Feline coronavirus	FIPV270	taxon:12663	540		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304353.1	FECV	Feline coronavirus	FECV274	taxon:12663	543		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+FJ917526.1	FIPV	Feline coronavirus	FIPV-UCD16	taxon:12663	144		USA	Felis catus (cat)	diseased lesional tissue	05-May-2008	24-JUL-2016	NCBI
+PP097360.1	FIPV	Feline coronavirus	FIPV/UGM/BUDP	taxon:12663	360		Indonesia	Felis catus	pleural effusion	2021	04-FEB-2024	NCBI
+JQ304397.1	FECV	Feline coronavirus	FECV668	taxon:12663	564		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+HF954938.1	FECV	Feline coronavirus	FECV 138	taxon:12663	152		USA:IA	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+HF954953.1	FIPV	Feline coronavirus	FIPV D06 244-1	taxon:12663	157		USA:MI	Felis catus	mesenteric lymph node of a diseased cat	2006	03-JUL-2013	NCBI
+JQ304409.1	FECV	Feline coronavirus	FECV757	taxon:12663	559		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304331.1	FECV	Feline coronavirus	FECV147	taxon:12663	529		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304368.1	FECV	Feline coronavirus	FECV412	taxon:12663	557		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+FJ917523.1	FIPV	Feline coronavirus	FIPV-UCD13	taxon:12663	4413		USA	Felis catus (cat)	diseased lesional tissue	17-Jan-2008	24-JUL-2016	NCBI
+HF954951.1	FIPV	Feline coronavirus	FIPV D06 327-1	taxon:12663	147		USA:NY	Felis catus	Spleen of a diseased cat	2006	03-JUL-2013	NCBI
+OK236302.1	FIPV	Feline coronavirus	FIPV/HB/WH/2019/41/Nini	taxon:12663	306		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+JQ304487.1	FIPV	Feline coronavirus	FIPV657	taxon:12663	549		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304407.1	FECV	Feline coronavirus	FECV755	taxon:12663	559		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304448.1	FIPV	Feline coronavirus	FIPV38	taxon:12663	492		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304387.1	FECV	Feline coronavirus	FECV576	taxon:12663	547		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304508.1	FIPV	Feline coronavirus	FIPV886	taxon:12663	559		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304320.1	FIPV	Feline coronavirus	fecesFIPV684	taxon:12663	555		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304457.1	FIPV	Feline coronavirus	FIPV215	taxon:12663	474		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+FJ917529.1	FIPV	Feline coronavirus	FIPV-UCD18b	taxon:12663	132		USA	Felis catus (cat)	diseased lesional tissue	30-Sep-2008	24-JUL-2016	NCBI
+JQ304507.1	FIPV	Feline coronavirus	FIPV872	taxon:12663	560		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304465.1	FIPV	Feline coronavirus	FIPV307	taxon:12663	548		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304425.1	FECV	Feline coronavirus	FECV783	taxon:12663	292		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304506.1	FIPV	Feline coronavirus	FIPV870	taxon:12663	554		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+MW225971.1	FIPV	Feline infectious peritonitis virus	Aramis_effusion	taxon:11135	189		Italy	Felis catus	effusion	2019	18-JAN-2021	NCBI
+HF954937.1	FECV	Feline coronavirus	FECV 137	taxon:12663	157		USA:IA	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+JQ304352.1	FECV	Feline coronavirus	FECV266	taxon:12663	517		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304348.1	FECV	Feline coronavirus	FECV244	taxon:12663	540		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+HF954968.1	FIPV	Feline coronavirus	FIPV D04 93-1	taxon:12663	147		USA:PA	Felis catus	kidney of a diseased cat	2004	03-JUL-2013	NCBI
+JQ304472.1	FIPV	Feline coronavirus	FIPV510	taxon:12663	529		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304464.1	FIPV	Feline coronavirus	FIPV306	taxon:12663	492		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304355.1	FECV	Feline coronavirus	FECV282	taxon:12663	537		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304427.1	FECV	Feline coronavirus	FECV824	taxon:12663	555		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+MW225981.1	FIPV	Feline infectious peritonitis virus	235/12	taxon:11135	189		Italy	Felis catus	effusion	2012	18-JAN-2021	NCBI
+JQ304349.1	FECV	Feline coronavirus	FECV252	taxon:12663	540		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304356.1	FECV	Feline coronavirus	FECV338	taxon:12663	510		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304363.1	FECV	Feline coronavirus	FECV389	taxon:12663	540		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304454.1	FIPV	Feline coronavirus	FIPV110	taxon:12663	474		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304328.1	FECV	Feline coronavirus	FECV124	taxon:12663	492		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304312.1	FIPV	Feline coronavirus	fecesFIPV585	taxon:12663	531		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+OK236296.1	FIPV	Feline coronavirus	FIPV/HB/WH/2019/20/Shiqi	taxon:12663	303		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+OK236294.1	FIPV	Feline coronavirus	FIPV/HB/WH/2019/16/Baozi	taxon:12663	195		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+JQ304329.1	FECV	Feline coronavirus	FECV136	taxon:12663	489		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+FJ917534.1	FIPV	Feline coronavirus	FIPV-UCD11b-2a	taxon:12663	4413		USA	Felis catus (cat)	diseased lesional tissue	04-Apr-2008	24-JUL-2016	NCBI
+JQ304501.1	FIPV	Feline coronavirus	FIPV828	taxon:12663	559		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304382.1	FECV	Feline coronavirus	FECV557	taxon:12663	540		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304423.1	FECV	Feline coronavirus	FECV781	taxon:12663	411		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304489.1	FIPV	Feline coronavirus	FIPV677	taxon:12663	561		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304422.1	FECV	Feline coronavirus	FECV778	taxon:12663	540		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304430.1	FECV	Feline coronavirus	FECV875	taxon:12663	542		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304433.1	FIPV	Feline coronavirus	FIPV851	taxon:12663	551		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304401.1	FECV	Feline coronavirus	FECV674	taxon:12663	543		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+PP901883.1	FIPV	Feline coronavirus	FCoV/Thailand/CUFIP2175/2021	taxon:12663	1899		Thailand	Felis catus	thoracic fluid	Aug-2021	30-JUN-2024	NCBI
+JQ304395.1	FECV	Feline coronavirus	FECV630	taxon:12663	549		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304420.1	FECV	Feline coronavirus	FECV775	taxon:12663	562		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304357.1	FECV	Feline coronavirus	FECV339	taxon:12663	512		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304399.1	FECV	Feline coronavirus	FECV671	taxon:12663	565		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+MW225958.1	FIPV	Feline infectious peritonitis virus	215/16	taxon:11135	198		Italy	Felis catus	kidney	2016	18-JAN-2021	NCBI
+MW225962.1	FIPV	Feline infectious peritonitis virus	33/18	taxon:11135	189		Italy	Felis catus	effusion	2018	18-JAN-2021	NCBI
+JQ304497.1	FIPV	Feline coronavirus	FIPV813	taxon:12663	558		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+HF954950.1	FECV	Feline coronavirus	FECV 167	taxon:12663	156		USA:RI	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+JQ304414.1	FECV	Feline coronavirus	FECV763	taxon:12663	558		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+HF954933.1	FECV	Feline coronavirus	FECV 131	taxon:12663	148		USA:WI	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+JQ304492.1	FIPV	Feline coronavirus	FIPV696	taxon:12663	569		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304495.1	FIPV	Feline coronavirus	FIPV810	taxon:12663	552		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304351.1	FECV	Feline coronavirus	FECV259	taxon:12663	539		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304473.1	FIPV	Feline coronavirus	FIPV554	taxon:12663	538		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304316.1	FIPV	Feline coronavirus	fecesFIPV622	taxon:12663	549		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304494.1	FIPV	Feline coronavirus	FIPV798	taxon:12663	564		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304384.1	FECV	Feline coronavirus	FECV561	taxon:12663	539		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+OK236259.1	FIPV	Feline coronavirus	FIPV/HB/WH/2020/74/f2	taxon:12663	315		China	felis	fecal samples and seroperitoneum	2020	23-SEP-2022	NCBI
+JQ304326.1	FECV	Feline coronavirus	FECV113	taxon:12663	492		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+HF954928.1	FECV	Feline coronavirus	FECV 111	taxon:12663	156		USA:CT	Felis catus	feces of a healthy cat	2010	03-JUL-2013	NCBI
+JQ304303.1	FIPV	Feline coronavirus	bloodFIPV369	taxon:12663	531		Netherlands	Felis catus	buffy coat		12-JUL-2012	NCBI
+JQ304388.1	FECV	Feline coronavirus	FECV577	taxon:12663	461		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304500.1	FIPV	Feline coronavirus	FIPV826	taxon:12663	391		Netherlands	Felis catus	internal organ		12-JUL-2012	NCBI
+JQ304330.1	FECV	Feline coronavirus	FECV141	taxon:12663	348		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+FJ917532.1	FIPV	Feline coronavirus	FIPV-UCD11b-1a	taxon:12663	186		USA	Felis catus (cat)	diseased lesional tissue	31-Mar-2008	24-JUL-2016	NCBI
+PP097359.1	FIPV	Feline coronavirus	FIPV/UGM/BUDF	taxon:12663	360		Indonesia	Felis catus	ascites		04-FEB-2024	NCBI
+JQ304361.1	FECV	Feline coronavirus	FECV378	taxon:12663	543		Netherlands	Felis catus	feces		12-JUL-2012	NCBI
+JQ304294.1	FIPV	Feline coronavirus	ascitesFIPV695	taxon:12663	559		Netherlands	Felis catus	ascites		12-JUL-2012	NCBI
