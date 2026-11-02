@@ -44,3 +44,8 @@ Fisher's exact tests comparing FIPV and FECV sequences, per gene.
 ```bash
 conda env create -f environment.yml
 conda activate FIP
+```
+
+## License
+- Code : MIT License (see `LICENSE`)
+- Data : CC0 1.0 Universal (see `LICENSE-DATA`)
